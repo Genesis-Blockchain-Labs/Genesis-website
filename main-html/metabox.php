@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zxx" class="js">
+<head>
+	<meta charset="utf-8">
+<meta name="author" content="Softnio">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<!-- Fav Icon  -->
+<link rel="shortcut icon" href="images/favicon-32x32.png">
+
+<!-- Site Title  -->
+<title>Genesis Blockchain Labs</title>
+
+
+<!-- Bundle and Base CSS -->
+<link rel="stylesheet" href="assets/css/vendor.bundle.css?ver=1930">
+<link rel="stylesheet" href="assets/css/style-dark.css?ver=1930" id="changeTheme">
+<!-- Extra CSS -->
+<link rel="stylesheet" href="assets/css/theme.css?ver=1930">
+<!-- font awsome  -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- slider  -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet" />
+
+
+</head>
+
+<!-- Header @s -->
+<div class="header-main">
+	<div class="header-container container">
+		<div class="header-wrap">
+			<!-- Logo @s -->
+			<div class="header-logo logo">
+				<a href="./" class="logo-link">
+				   
+					<img class="logo-light" src="images/metabox/metabox_logo.png" srcset="" alt="logo">
+				</a>
+			</div>
+
+			<!-- Menu Toogle @s -->
+			<div class="header-nav-toggle">
+				<a href="#" class="navbar-toggle" data-menu-toggle="example-menu-04">
+					<div class="toggle-line">
+						<span></span>
+					</div>
+				</a>
+			</div>
+
+			<!-- Menu @s -->
+			<div class="header-navbar header-navbar-s1">
+				<nav class="header-menu" id="example-menu-04">
+					<ul class="menu menu-s2">
+						<li class="menu-item has-sub">
+							<a class="menu-link nav-link menu-toggle" href="#">Products</a>
+							<ul class="menu-sub menu-drop">
+								<li class="menu-item"><a class="menu-link nav-link"  href="genesis_wallet.php">Genesis Wallets</a></li>
+								<li class="menu-item"><a class="menu-link nav-link"  href="genesisexchange.php">Genesis Exchange</a></li>
+								<li class="menu-item"><a class="menu-link nav-link"  href="genesis_desktop_wallet.php">Genesis Desktop Wallets</a></li>
+								<li class="menu-item"><a class="menu-link nav-link"  href="genesis _blockchain.php">Genesis Blockchain</a></li>
+								<li class="menu-item"><a class="menu-link nav-link"  href="metabox.php">Metabox</a></li>
+							</ul>
+						</li>
+						<li class="menu-item"><a class="menu-link nav-link" href="#token">Token Sale</a></li>
+						<li class="menu-item"><a class="menu-link nav-link" href="#roadmap">Roadmap</a></li>
+						<li class="menu-item"><a class="menu-link nav-link" href="#team">Team</a></li>
+						<li class="menu-item"><a class="menu-link nav-link" href="#partners">Partners</a></li>  
+						<li class="menu-item has-sub">
+							<a class="menu-link nav-link menu-toggle" href="#">Testnet</a>
+							<ul class="menu-sub menu-drop">
+								<li class="menu-item"><a class="menu-link nav-link"  href="comming.php">Explorer </a></li>
+							</ul>
+						</li>
+						<li class="menu-item has-sub">
+							<a class="menu-link nav-link menu-toggle" href="#">More</a>
+							<ul class="menu-sub menu-drop">
+								<li class="menu-item"><a class="menu-link nav-link" href="#media-partner">Media Partner</a></li>
+								<li class="menu-item"><a class="menu-link nav-link" href="#faqs">Faqs</a></li>
+							</ul>
+						</li>
+						<li class="menu-item"><a class="menu-link nav-link" href="#contact">Contact</a></li>
+					</ul>
+					<ul class="menu-btns">
+						<li><a href="images/GLW.pdf"   class="btn btn-rg btn-auto btn-outline btn-grad on-bg-theme btn-round"><span>Whitepaper</span></a></li>
+						<li>
+							<a href="Staking.php"  class="btn btn-rg btn-auto btn-outline btn-grad on-bg-theme btn-round"><span>Staking </span></a>
+						</li>
+					</ul>
+				</nav>
+			</div><!-- .header-navbar @e -->
+		</div>                                                
+	</div>
+</div><!-- .header-main @e -->
+
+
+    <body class="nk-body body-wider theme-dark mode-onepage">
+
+	<div class="nk-wrap">
+		<header class="nk-header page-header is-transparent is-sticky is-shrink is-dark" id="header">
+			<?php include("includes/headerInner.php"); ?>
+            <!-- Banner @s -->
+            <div class="header-banner bg-theme-dark">
+                <div class="nk-banner">
+                   
+                </div><!-- .nk-banner -->
+                <div class="nk-ovm mask-c-dark shape-v mask-contain-bottom"></div>
+                
+                <!-- Place Particle Js -->
+                <!-- <div id="particles-bg" class="particles-container particles-bg" data-pt-base="#00c0fa" data-pt-base-op=".3" data-pt-line="#2b56f5" data-pt-line-op=".5" data-pt-shape="#00c0fa" data-pt-shape-op=".2"></div> -->
+            </div>
+			<!-- .header-banner @e -->
+		</header>
+
+        <section>
+            <div class="gensis-wallet-bg">
+                <img src="images/banner1.jpg" alt="">
+            </div>
+        </section>
+    
+        <main class="nk-pages">
+            <section class="section bg-white ov-h " >
+                <div class="container">
+                    <!-- Block @s -->
+                    <div class="nk-block nk-block-text-wrap gensis-update">
+                        <div class="row  align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
+                            <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
+                                <div class="nk-block-img">
+                                    <img src="images/GenesisDesktopWallets0111.png" alt="gfx">
+                                </div>
+                            </div>
+                            <div class="col-sm-10 col-md-6 text-center text-md-left">
+                                <div class="nk-block-text">
+                                    <h2 class="title">Metabox</h2>
+                                    <p class="lead">Metabox from Genesis will be a metaverse project, a virtual world for the players to create, own and monetize their unique gaming experiences and get rewards for participation in the ecosystem.  
+                                  
+                                </div>
+                            </div>
+                        </div><!-- .row -->
+                    </div><!-- .block @e -->
+                </div>
+            </section>
+            <!-- // -->
+          
+
+           
+            <!-- // -->
+        </main>
+        <?php include("includes/footer.php"); ?>
+	</div>
+	
+	<div class="preloader"><span class="spinner spinner-round"></span></div>
+	
+	<!-- JavaScript -->
+	<script src="assets/js/jquery.bundle.js?ver=1930"></script>
+	<script src="assets/js/scripts.js?ver=1930"></script>
+	<script src="assets/js/charts.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+
+</body>
+
+</html>

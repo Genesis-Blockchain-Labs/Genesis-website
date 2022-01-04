@@ -1,0 +1,20 @@
+/*!
+Template :	ICOCrypto @by Softnio
+Theme	 :  Default
+Version   :  1.9.3
+Updated   :  05/05/2021 
+*/
+/*! WRITE YOUR CUSTOM STYLE **/
+
+#btn-disconnect {
+	display: none;
+}
+
+#WEB3_CONNECT_MODAL_ID {
+	z-index: 999999;
+    position: fixed;
+}
+
+.sc-eCApGN.cjAFRf.web3modal-provider-wrapper:nth-child(2) {
+    display: none;
+}
