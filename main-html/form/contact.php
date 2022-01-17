@@ -1,5 +1,6 @@
 <?php
 session_start();
+include("../config.php");
 require 'sendgrid/vendor/autoload.php'; // If you're using Composer (recommended)
 // Comment out the above line if not using Composer
 // require("<PATH TO>/sendgrid-php.php");
@@ -18,7 +19,7 @@ $email->addContent("text/plain", $_POST['message']);
 $email->addContent(
     "text/html", $_POST['message']
 );
-$sendgrid = new \SendGrid('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');
+$sendgrid = new \SendGrid($sendgridKey);
 try {
     $response = $sendgrid->send($email);
     print $response->statusCode() . "\n";

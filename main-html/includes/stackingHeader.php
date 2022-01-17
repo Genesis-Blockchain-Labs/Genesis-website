@@ -1,3 +1,4 @@
+<?php include("../config.php"); ?>
 <!-- Header @s -->
 <div class="header-main">
 	<div class="header-container container">

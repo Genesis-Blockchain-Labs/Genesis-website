@@ -5,7 +5,10 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-
+p {
+    font-size: 14px;
+    color: #f5f5f5;
+}
 #kyc_policy {
     margin-top: 15px;
 }
@@ -34,15 +37,17 @@ body{
     opacity: 0.06;
 }
 .underline {
-    border-bottom: 2px solid #fff;
+    border-bottom: 1px solid #fff;
     font-weight: bold;
     line-height: 32px;
 }
 h4 {
     padding: 12px 0px;
+    color: #1e4289;
 }
 h6 {
     font-weight: bold;
+    color: #1e4289;
 }
 
 .privacy_emails {

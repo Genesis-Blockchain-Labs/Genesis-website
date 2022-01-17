@@ -553,13 +553,14 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
   margin: 0;
 }
 .head-btn {
-  color: #000;
+  color: #F5F5F5;
   font-weight: bold;
   cursor: pointer;
   text-decoration: none;
 }
 .head-btn:hover{
-  color: #546171;
+  background-color: linear-gradient(to right, rgb(122, 15, 255) 0%, rgb(70, 189, 244) 100%);
+  color: linear-gradient(to right, rgb(122, 15, 255) 0%, rgb(70, 189, 244) 100%);
   font-weight: bold;
   text-decoration: none;
 }
@@ -7932,7 +7933,7 @@ strong, b {
   .menu-btns .btn-md.btn-grad { padding: 10px 16px; } }
 
 @media (min-width: 1200px) { .menu > .menu-item > a { padding: 20px 15px; }
-  .header-navbar-s1 .menu > .menu-item > a { padding: 20px 8.5px; font-size: 13px; font-weight: 600; }
+  .header-navbar-s1 .menu > .menu-item > a { padding: 20px 8.5px; font-size: 12px; font-weight: 600; }
   .menu-s2 > .menu-item > a { padding-left: 7.5px; padding-right: 7.5px; }
   .menu-item.has-sub > a { padding-right: 23px !important; }
   .menu-item.has-sub > a:after { right: 8px; }

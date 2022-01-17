@@ -24,13 +24,15 @@
 <!-- Vendor CSS Files -->
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-  <link
-    rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  <!-- animatio file  -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 
 
 <!-- slider  -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet" />
 <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet" />
+
+<!-- <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" /> -->
 
 
 </head>
@@ -42,7 +44,7 @@
 		<header class="nk-header page-header is-transparent is-sticky is-shrink is-dark" id="header">
 		    <?php include("includes/header.php"); ?>
             <!-- Banner @s -->
-            <div class="header-banner bg-theme-dark">
+            <div class="header-banner bg-theme-dark" data-aos="fade-up">
                 <div class="nk-banner">
                     <div class="banner banner-mask-fix banner-fs banner-single tc-light">
                         <div class="banner-wrap ov-v">
@@ -161,7 +163,96 @@
             </div>
 			<!-- .header-banner @e -->
 		</header>
-    
+    <!-- slider_parudt started  -->
+        <div class="slider">
+	<div class="slide-track">
+		<div class="slide">
+			<img class="slide_img" src="images/coin/binance.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/btc-cash.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/btc.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/cardano.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/cosmos.png" alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/dash.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/eth.png" alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/lite.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/tezos.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img  class="slide_img" src="images/coin/cosmos.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/cardano.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/btc-cash.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/lite.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/dash.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/binance.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/btc-cash.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/btc.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/cardano.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/cosmos.png" alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/dash.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/eth.png" alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/lite.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/tezos.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img  class="slide_img" src="images/coin/cosmos.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/cardano.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/btc-cash.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/lite.png"  alt="" />
+		</div>
+		<div class="slide">
+			<img class="slide_img" src="images/coin/dash.png"  alt="" />
+		</div>
+	</div>
+</div>
+<!-- slider_parudt clodes  -->
         <main class="nk-pages">
 
             <!-- slider 
@@ -289,7 +380,7 @@
     </section>End Events Section
             slider ended  -->
 
-            <section class="products bg-white ov-h" >
+            <section class="products  ov-h" >
                 <div class="container">
                     <!-- Block @s -->
                     <div class="nk-block nk-block-text-wrap">
@@ -297,8 +388,8 @@
                            
                             <div class="col-sm-10 col-md-6 text-center text-md-left">
                                 <div class="nk-block-text">
-                                    <h2 class="title">Genesis Wallet</h2>
-                                    <p class="lead">
+                                    <h2 class="title products_head">Genesis Wallet</h2>
+                                    <p class="lead products_para">
 
                                     The Genesis blockchain lab wallets are going to support trade, buy, and exchange of blockchain assets. Multiple transactions are going to be possible for users everyday. Customers will be able to choose a subscription based monthly plan rather than paying a specific fee for each transaction. This reduces the hassle of paying some amount during every transaction and the subscription also reduces the overall transaction fee.</p>
                                     <!-- <a href="https://www.youtube.com/watch?v=SSo_EIwHSd4" class="video-popup btn-play-wrap btn-play-wrap-s1">
@@ -310,13 +401,13 @@
                                             <span class="text-xs">What and How it work</span>
                                         </div>
                                     </a> -->
-                                    <div class="heading-button">
+                                    <div class="heading-button products_btn">
                                         <a class="head-btn" target="_blank"  href="genesis_wallet.php">Read More...</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
-                                <div class="nk-block-img">
+                                <div class="nk-block-img animated fadeInDown">
                                     <img src="images/Genesis-Wallets.png" alt="gfx">
                                 </div>
                             </div>
@@ -326,19 +417,19 @@
                 </div>
             </section>
             <!-- // -->
-            <section class="products-2 bg-white ov-h" >
+            <section class="products-2  ov-h" data-aos="fade-up">
                 <div class="container">
                     <!-- Block @s -->
                     <div class="nk-block nk-block-text-wrap">
                         <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
                             <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
                             <div class="nk-block-text">
-                                    <h2 class="title">Genesis Exchange</h2>
-                                    <p class="lead">
+                                    <h2 class="title products_head">Genesis Exchange</h2>
+                                    <p class="lead products_para">
 
                                     Genesis exchange is a decentralized cryptocurrencies trading platform that offers traders with multiple features. Traders can buy, sell and exchange cryptocurrencies for one another. They can even buy cryptos using fiat currencies or can covert cryptos back into fiat currencies. Our exchange platform is easy to use, facilitating novice and pro traders with great liquidity options.</p>
                                     
-                                    <div class="heading-button">
+                                    <div class="heading-button products_btn">
                                         <a class="head-btn" target="_blank"  href="genesisexchange.php">Read More...</a>
                                     </div>
                                 </div>
@@ -355,9 +446,9 @@
                 </div>
             </section>
              <!-- // -->
-             <section class="products-3 bg-white ov-h" id="ico">
+             <!-- <section class="products-3 bg-white ov-h" id="ico">
                 <div class="container">
-                    <!-- Block @s -->
+                    Block @s
                     <div class="nk-block nk-block-text-wrap">
                         <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
                             <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
@@ -380,11 +471,37 @@
                         </div>
                     </div>
                 </div>
+            </section> -->
+             <section class="products-3  ov-h" id="ico">
+                <div class="container">
+                  
+                    <div class="nk-block nk-block-text-wrap">
+                        <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
+                            <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
+                                <div class="nk-block-img">
+                                    <img src="images/Genesis_Blockchain.png" alt="gfx">
+                                </div>
+                            </div>
+                            <div class="col-sm-10 col-md-6 text-center text-md-left">
+                                <div class="nk-block-text">
+                                    <h2 class="title products_head">Genesis Blockchain</h2>
+                                    <p class="lead products_para">
+
+                                    Genesis Blockchain will be a project aimed at concentrating more on the metaverse, gaming and NFT space. Blockchain, in general, is a distributed database or a public ledger of transactions that are executed and shared among all the participating computers/nodes. The basic characteristics of blockchain technology are decentralization, consensus mechanism, immutability and operation with peer-to-peer networks.</p>
+                                    
+                                    <div class="heading-button products_btn">
+                                        <a class="head-btn" target="_blank"  href="genesis _blockchain.php">Read More...</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </section>
              <!-- // -->
-             <section class="products-4 bg-white ov-h">
+             <!-- <section class="products-4 bg-white ov-h">
                 <div class="container">
-                    <!-- Block @s -->
+                    Block @s
                     <div class="nk-block nk-block-text-wrap">
                         <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
                             <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
@@ -409,7 +526,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
              <!-- // -->
              <!-- <section class="products-5 bg-white ov-h">
                 <div class="container">
@@ -608,7 +725,7 @@
                 </div>
             </section> -->
             <!-- // -->
-            <section class="section section-tokensale tc-light bg-theme" id="token">
+            <section class="section section-tokensale tc-light bg-theme" id="token" data-aos="fade-up">
                 <!-- Block @s -->
                 <div class="container">
                     <div class="section-head text-center wide-auto-sm">
@@ -1035,14 +1152,14 @@
                                             <div class="team-photo round-full team-photo-bg">
                                                 <a href="#" class="team-show content-popup" data-overlay="bg-theme-grad-alternet"></a>
                                                 <!-- <img src="images/team/sq-g.jpg" alt="team" class="round-full"> -->
-                                                <img src="images/team/pics/Dinesh.jpg" alt="team" class="round-full">
+                                                <img src="images/team/pics/neeraj_kumar.jpg" alt="team" class="round-full chief-img">
                                             </div>
                                             <!-- <h5 class="team-name title title-sm">Jason Morales</h5> -->
-                                            <h5 class="team-name names-teams title title-sm">Dinesh Sharma </h5>
+                                            <h5 class="team-name names-teams title title-sm">Neeraj Kumar</h5>
                                             <!-- <span class="team-position">Sr.Backend developer</span> -->
-                                            <span class="team-position team-seat">Project Coordinator </span>
+                                            <span class="team-position team-seat">Sr. Project Manager </span>
                                             <ul class="team-social team-social-s2">
-                                                <li><a target="_blank" href="https://www.linkedin.com/in/dinesh-sharma-469021105/"><em class="fab fa-linkedin-in"></em></a></li>
+                                                <li><a target="_blank" href="https://www.linkedin.com/in/neeraj-kumar-9a5155160"><em class="fab fa-linkedin-in"></em></a></li>
                                                 <!-- <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
                                                 <li><a href="#"><em class="fab fa-twitter"></em></a></li> -->
                                             </ul>
@@ -1351,6 +1468,7 @@
 
     <!-- Vendor JS Files -->
  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+ 
  
 
 </body>
