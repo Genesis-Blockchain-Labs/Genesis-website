@@ -49,7 +49,7 @@
             </div>
 			<!-- .header-banner @e -->
 		</header>
-
+ 
         <section>
             <div class="gensis-wallet-bg">
                 <img src="images/banner1.jpg" alt="">
