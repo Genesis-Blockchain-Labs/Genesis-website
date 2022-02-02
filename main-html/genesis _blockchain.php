@@ -53,20 +53,20 @@
         </section>
     
         <main class="nk-pages">
-            <section class="section bg-white ov-h " >
+            <section class="section products-3 ov-h " >
                 <div class="container">
                     <!-- Block @s -->
-                    <div class="nk-block nk-block-text-wrap gensis-update">
+                    <div class="nk-block nk-block-text-wrap ">
                         <div class="row  align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
                             <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
                                 <div class="nk-block-img">
-                                    <img src="images/Genesis_Blockchain.jpg" alt="gfx">
+                                    <img src="images/Genesis_Blockchain.png" alt="gfx">
                                 </div>
                             </div>
                             <div class="col-sm-10 col-md-6 text-center text-md-left">
                                 <div class="nk-block-text">
-                                    <h2 class="title">Genesis Blockchain</h2>
-                                    <p class="lead">Genesis Blockchain will be a project aimed at concentrating more on the metaverse, gaming and NFT space. Blockchain, in general, is a distributed database or a public ledger of transactions that are executed and shared among all the participating computers/nodes. The basic characteristics of blockchain technology are decentralization, consensus mechanism, immutability and operation with peer-to-peer networks.
+                                    <h2 class="title products_head">Genesis Blockchain</h2>
+                                    <p class="lead products_para">Genesis Blockchain will be a project aimed at concentrating more on the metaverse, gaming and NFT space. Blockchain, in general, is a distributed database or a public ledger of transactions that are executed and shared among all the participating computers/nodes. The basic characteristics of blockchain technology are decentralization, consensus mechanism, immutability and operation with peer-to-peer networks.
                                   
                                 </div>
                             </div>

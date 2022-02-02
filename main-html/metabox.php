@@ -27,71 +27,7 @@
 
 </head>
 
-<!-- Header @s -->
-<div class="header-main">
-	<div class="header-container container">
-		<div class="header-wrap">
-			<!-- Logo @s -->
-			<div class="header-logo logo">
-				<a href="./" class="logo-link">
-				   
-					<img class="logo-light" src="images/metabox/metabox_logo.png" srcset="" alt="logo">
-				</a>
-			</div>
 
-			<!-- Menu Toogle @s -->
-			<div class="header-nav-toggle">
-				<a href="#" class="navbar-toggle" data-menu-toggle="example-menu-04">
-					<div class="toggle-line">
-						<span></span>
-					</div>
-				</a>
-			</div>
-
-			<!-- Menu @s -->
-			<div class="header-navbar header-navbar-s1">
-				<nav class="header-menu" id="example-menu-04">
-					<ul class="menu menu-s2">
-						<li class="menu-item has-sub">
-							<a class="menu-link nav-link menu-toggle" href="#">Products</a>
-							<ul class="menu-sub menu-drop">
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesis_wallet.php">Genesis Wallets</a></li>
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesisexchange.php">Genesis Exchange</a></li>
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesis_desktop_wallet.php">Genesis Desktop Wallets</a></li>
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesis _blockchain.php">Genesis Blockchain</a></li>
-								<li class="menu-item"><a class="menu-link nav-link"  href="metabox.php">Metabox</a></li>
-							</ul>
-						</li>
-						<li class="menu-item"><a class="menu-link nav-link" href="#token">Token Sale</a></li>
-						<li class="menu-item"><a class="menu-link nav-link" href="#roadmap">Roadmap</a></li>
-						<li class="menu-item"><a class="menu-link nav-link" href="#team">Team</a></li>
-						<li class="menu-item"><a class="menu-link nav-link" href="#partners">Partners</a></li>  
-						<li class="menu-item has-sub">
-							<a class="menu-link nav-link menu-toggle" href="#">Testnet</a>
-							<ul class="menu-sub menu-drop">
-								<li class="menu-item"><a class="menu-link nav-link"  href="comming.php">Explorer </a></li>
-							</ul>
-						</li>
-						<li class="menu-item has-sub">
-							<a class="menu-link nav-link menu-toggle" href="#">More</a>
-							<ul class="menu-sub menu-drop">
-								<li class="menu-item"><a class="menu-link nav-link" href="#media-partner">Media Partner</a></li>
-								<li class="menu-item"><a class="menu-link nav-link" href="#faqs">Faqs</a></li>
-							</ul>
-						</li>
-						<li class="menu-item"><a class="menu-link nav-link" href="#contact">Contact</a></li>
-					</ul>
-					<ul class="menu-btns">
-						<li><a href="images/GLW.pdf"   class="btn btn-rg btn-auto btn-outline btn-grad on-bg-theme btn-round"><span>Whitepaper</span></a></li>
-						<li>
-							<a href="Staking.php"  class="btn btn-rg btn-auto btn-outline btn-grad on-bg-theme btn-round"><span>Staking </span></a>
-						</li>
-					</ul>
-				</nav>
-			</div><!-- .header-navbar @e -->
-		</div>                                                
-	</div>
-</div><!-- .header-main @e -->
 
 
     <body class="nk-body body-wider theme-dark mode-onepage">
@@ -119,7 +55,7 @@
         </section>
     
         <main class="nk-pages">
-            <section class="section bg-white ov-h " >
+            <section class="section products ov-h " >
                 <div class="container">
                     <!-- Block @s -->
                     <div class="nk-block nk-block-text-wrap gensis-update">
@@ -131,8 +67,8 @@
                             </div>
                             <div class="col-sm-10 col-md-6 text-center text-md-left">
                                 <div class="nk-block-text">
-                                    <h2 class="title">Metabox</h2>
-                                    <p class="lead">Metabox from Genesis will be a metaverse project, a virtual world for the players to create, own and monetize their unique gaming experiences and get rewards for participation in the ecosystem.  
+                                    <h2 class="title products_head">Metabox</h2>
+                                    <p class="lead products_para">Metabox from Genesis will be a metaverse project, a virtual world for the players to create, own and monetize their unique gaming experiences and get rewards for participation in the ecosystem.  
                                   
                                 </div>
                             </div>

@@ -35,7 +35,7 @@
 		    <?php include("includes/headerInner.php"); ?>
              <!-- ======= Contact Section ======= -->
       <!-- // -->
-      <section class="section bg-white pb-0" id="faqs">
+      <section class="section bg-theme tc-light pb-0" id="faqs">
                 <div class="container">
                     <div class="section-head text-center wide-auto-sm">
                         <h2 class="title title-s4" title="FAQS">Frequently Asked Question</h2>
@@ -55,7 +55,7 @@
                                 <div class="tab-content">
                                     <div class="tab-pane fade show active" id="general-questions-19">
                                         <div class="accordion accordion-faq" id="faq-67">
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title" data-toggle="collapse" data-target="#faq-67-1">
                                                     what is Genesis Wallet ?  
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -67,7 +67,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-67-2">
                                                     What is staking ? 
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -79,7 +79,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-67-3">
                                                     What is Genesis Token ? 
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -90,7 +90,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-67-4">
                                                 How is Genesis Token unique? 
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -101,7 +101,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-67-4">
                                                     Reduced transaction fees? 
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -116,7 +116,7 @@
                                     </div>
                                     <div class="tab-pane fade" id="ico-questions-19">
                                         <div class="accordion accordion-faq" id="faq-68">
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title" data-toggle="collapse" data-target="#faq-68-1">
                                                     Which of us ever undertakes laborious?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -127,7 +127,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-68-2">
                                                     Who do not know how to pursue rationally?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -138,7 +138,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-68-3">
                                                     Their separate existence is a myth?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -149,7 +149,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-68-4">
                                                     Pityful a rethoric question ran over her cheek?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -164,7 +164,7 @@
                                     </div>
                                     <div class="tab-pane fade" id="tokens-sales-19">
                                         <div class="accordion accordion-faq" id="faq-69">
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title" data-toggle="collapse" data-target="#faq-69-1">
                                                     When she reached the first hills?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -175,7 +175,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-69-2">
                                                     Big Oxmox advised her not to do?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -186,7 +186,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-69-3">
                                                     Which roasted parts of sentences fly into your mouth?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -197,7 +197,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-69-4">
                                                     Vokalia and Consonantia, there live?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -212,7 +212,7 @@
                                     </div>
                                     <div class="tab-pane fade" id="client-19">
                                         <div class="accordion accordion-faq" id="faq-70">
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title" data-toggle="collapse" data-target="#faq-70-1">
                                                     When she reached the first hills?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -223,7 +223,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-70-2">
                                                     Big Oxmox advised her not to do?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -234,7 +234,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-70-3">
                                                     Which roasted parts of sentences fly into your mouth?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -245,7 +245,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-70-4">
                                                     Vokalia and Consonantia, there live?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -260,7 +260,7 @@
                                     </div>
                                     <div class="tab-pane fade" id="legal-19">
                                         <div class="accordion accordion-faq" id="faq-71">
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title" data-toggle="collapse" data-target="#faq-71-1">
                                                     When she reached the first hills?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -271,7 +271,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-71-2">
                                                     Big Oxmox advised her not to do?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -282,7 +282,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-71-3">
                                                     Which roasted parts of sentences fly into your mouth?
                                                     <span class="accordion-icon accordion-icon-s2"></span>
@@ -293,7 +293,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item accordion-item-s4 bg-light">
+                                            <div class="accordion-item accordion-item-s4 bg-theme tc-light">
                                                 <h5 class="accordion-title collapsed" data-toggle="collapse" data-target="#faq-71-4">
                                                     Vokalia and Consonantia, there live?
                                                     <span class="accordion-icon accordion-icon-s2"></span>

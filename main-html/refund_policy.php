@@ -35,7 +35,7 @@
 		    <?php include("includes/headerInner.php"); ?>
              <!-- ======= Contact Section ======= -->
       <!-- // -->
-      <section class="section bg-white pb-0" id="faqs">
+      <section class="section bg-theme tc-light pb-0" id="faqs">
                 <div class="container">
                     <div class="section-head text-center wide-auto-sm">
                         <h1 class="title title-s4" title="REFUND POLICY">Cancellation/Refund Policy</h1>

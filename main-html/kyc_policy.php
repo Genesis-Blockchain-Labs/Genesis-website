@@ -35,7 +35,7 @@
 		    <?php include("includes/headerInner.php"); ?>
              <!-- ======= Contact Section ======= -->
       <!-- // -->
-      <section class="section bg-white pb-0" id="kyc_policy">
+      <section class="section bg-theme tc-light pb-0" id="kyc_policy">
                 <div class="container">
                     <div class="section-head text-center wide-auto-sm">
                         <h1 class="title title-s4" title="KYC POLICY">KYC Policy</h1>

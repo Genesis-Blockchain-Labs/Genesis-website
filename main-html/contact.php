@@ -39,7 +39,7 @@ unset($_SESSION['message']);
 		<header class="nk-header page-header is-transparent is-sticky is-shrink is-dark" id="header">
 		    <?php include("includes/headerInner.php"); ?>
              <!-- ======= Contact Section ======= -->
-    <section class="section section-contact bg-white" id="contact">
+    <section class="section section-contact tc-light bg-theme" id="contact">
     <div class="section-head text-center wide-auto-sm">
                         <h2 class="title title-s4" title="Contact">Contact</h2>
                         <p>Any question? Reach out to us and we’ll get back to you shortly.</p>

@@ -55,7 +55,7 @@
             </section>
            
             <!-- // -->
-            <section class="section bg-white py-0 ov-h" id="gensis-ico-exchange">
+            <section class="section products-2 ov-h" id="gensis-ico-exchange">
                 <div class="container">
                     <!-- Block @s -->
                     <div class="nk-block nk-block-features-2 gensis-exchange-update">
@@ -68,8 +68,8 @@
                             <div class="col-sm-10 col-md-6 text-center text-md-left">
                                 <!-- Section Head @s -->
                                 <div class="nk-block-text">
-                                    <h4 class="title title-lg">Genesis Exchange</h4>
-                                    <p class="lead">
+                                    <h4 class="title title-lg products_head">Genesis Exchange</h4>
+                                    <p class="lead products_para">
 
                                         Genesis exchange is a decentralized cryptocurrencies trading platform that offers traders with multiple features. Traders can buy, sell and exchange cryptocurrencies for one another. They can even buy cryptos using fiat currencies or can covert cryptos back into fiat currencies. Our exchange platform is easy to use, facilitating novice and pro traders with great liquidity options. </p>
 

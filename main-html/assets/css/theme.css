@@ -86,35 +86,112 @@ Updated   :  05/05/2021
 
 /* Products details  */
 
-.products{
+/* .products{
     background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5) ), url(../images/bggg/1.png) ;
     background-position: center;
     background-size: 100% 100%;
     background-repeat: no-repeat;  
-}  
+}   */
 
 .products-2{
-    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5) ), url(../images/bggg/2.png) ;
-    background-position: center;
+    background:  #10122D ;
+    /* background-position: center;
     background-size: 100% 100%;
-    background-repeat: no-repeat;  
+    background-repeat: no-repeat;   */
     padding-top: 50px;
 } 
-
 .products-3{
-    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5) ), url(../images/bggg/4.png) ;
-    background-position: center;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;  
-    padding-top: 50px;
-}  
+  padding-top: 50px;
+
+}
+
+.update_bgg{
+  background: #10122D;
+}
+
+/* .blockchain_data {
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5) ), url(../images/bggg/blockchain_data.jpg) ;
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;  
+  background-attachment: fixed;
+
+} */
 
 
 .products_head {
-    color: #fff;
-    font-weight: bold;
+  color: #fff;
+  font-weight: bold;
 }
 .products_para {
-    color: #f5f5f5;
+  color: #f5f5f5;
 }  
+
+
+
+/* .test {
+  animation: UpDown 1s linear infinite;
+  position: absolute;
+  left: 0;
+  top: 0;
+  
+}
+
+@keyframes UpDown {
+  0% {
+      top: 10px;
+  }
+  25% {
+      top: 200px;
+  }
+  50% {
+      top: 300px;
+  }
+  75% {
+      top: 200px;
+  }
+  100% {
+      top: 100px;
+  }
+}
+ */
+
+ .nk-block-img .animated {
+  animation: up-down 1s ease-in-out infinite alternate-reverse both;
+}
+
+@-webkit-keyframes up-down {
+  0% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes up-down {
+  0% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}
+
+/* gensis wallet page */
+.items {
+  width: 90%;
+  margin: 0px auto;
+  margin-top: 100px
+}
+
+.slick-slide {
+  margin: 10px
+}
+
+.slick-slide img {
+  width: 100%;
+  border: 0px solid #fff
+}
+
 

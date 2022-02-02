@@ -11,7 +11,7 @@
 <!-- Site Title  -->
 <title>Genesis Blockchain Labs</title>
 
-
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <!-- Bundle and Base CSS -->
 <link rel="stylesheet" href="assets/css/vendor.bundle.css?ver=1930">
 <link rel="stylesheet" href="assets/css/style-dark.css?ver=1930" id="changeTheme">
@@ -255,249 +255,108 @@
 <!-- slider_parudt clodes  -->
         <main class="nk-pages">
 
-            <!-- slider 
-     <section id="events" class="events bg-white ov-h animate__swing" >
-      <div class="container" data-aos="fade-up">
+            <!-- <div class="blockchain_data"> -->
 
+       
 
-        <div class="events-slider swiper" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
+                <section class="products tc-light bg-theme  ov-h" >
+                    <div class="container">
+                        <!-- Block @s -->
+                        <div class="nk-block nk-block-text-wrap">
+                            <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
+                            
+                                <div class="col-sm-10 col-md-6 text-center text-md-left">
+                                    <div class="nk-block-text">
+                                        <h2 class="title products_head">Genesis Wallet</h2>
+                                        <p class="lead products_para">
 
-            <div class="swiper-slide">
-              <div class="row event-item">
-               
-                <div class="col-lg-6 pt-4 pt-lg-0 content">
-                  <h2 class="title">Genesis Wallet</h2>
-                  <div class="price">
-                    <p><span>$189</span></p>
-                  </div>
-                  <p class="fst-italic">
-                    
-                    The Genesis blockchain lab wallets are going to support trade, buy, and exchange of blockchain assets. Multiple transactions are going to be possible for users everyday. Customers will be able to choose a subscription based monthly plan rather than paying a specific fee for each transaction. This reduces the hassle of paying some amount during every transaction and the subscription also reduces the overall transaction fee.
-                  </p>
-                  <div class="heading-button">
-                    <a class="head-btn" target="_blank"  href="genesis_wallet.php">Read More...</a>
-                </div>
-                </div>
-                <div class="col-lg-6">
-                  <img src="images/Genesis-Wallets.png" class="img-fluid" alt="">
-                </div>
-              </div>
-            </div>End testimonial item
-
-            <div class="swiper-slide">
-              <div class="row event-item">
-                <div class="col-lg-6">
-                  <img src="images/genisg-img.png" class="img-fluid" alt="">
-                </div>
-                <div class="col-lg-6 pt-4 pt-lg-0 content">
-                  <h2 class="title">Genesis Exchange</h2>
-                  <div class="price">
-                    <p><span>$290</span></p>
-                  </div>
-                  <p class="fst-italic">
-                    Genesis exchange is a decentralized cryptocurrencies trading platform that offers traders with multiple features. Traders can buy, sell and exchange cryptocurrencies for one another. They can even buy cryptos using fiat currencies or can covert cryptos back into fiat currencies. Our exchange platform is easy to use, facilitating novice and pro traders with great liquidity options.
-                  </p>
-                  <div class="heading-button">
-                    <a class="head-btn" target="_blank"  href="genesisexchange.php">Read More...</a>
-                </div>
-                
-                </div>
-              </div>
-            </div>End testimonial item
-
-            <div class="swiper-slide">
-              <div class="row event-item">
-               
-                <div class="col-lg-6 pt-4 pt-lg-0 content">
-                  <h2 class="title">Genesis Desktop Wallets</h2>
-                  <div class="price">
-                    <p><span>$99</span></p>
-                  </div>
-                  <p class="fst-italic">
-                    Genesis desktop wallet Easly installed on a desktop or laptop computer that can be very helpful in your cryptocurrency transactions to a great extent. Cardano is the most feasible and widely used cryptocurrency for making digital currency transactions. Enjoy safe digital currency transactions with desktop wallet download.
-                  </p>
-                  <div class="heading-button">
-                    <a class="head-btn" target="_blank"  href="genesis_desktop_wallet.php">Read More...</a>
-                </div>
-                  
-                </div>
-                <div class="col-lg-6">
-                  <img src="images/GenesisDesktopWallets.jpg" class="img-fluid" alt="">
-                </div>
-              </div>
-            </div>End testimonial item
-
-            <div class="swiper-slide">
-              <div class="row event-item">
-               
-                <div class="col-lg-6 pt-4 pt-lg-0 content">
-                  <h2 class="title">Genesis Blockchain</h2>
-                  <div class="price">
-                    <p><span>$99</span></p>
-                  </div>
-                  <p class="fst-italic">
-                    Genesis desktop wallet Easly installed on a desktop or laptop computer that can be very helpful in your cryptocurrency transactions to a great extent. Cardano is the most feasible and widely used cryptocurrency for making digital currency transactions. Enjoy safe digital currency transactions with desktop wallet download.
-                  </p>
-                  <div class="heading-button">
-                    <a class="head-btn" target="_blank"  href="genesis_desktop_wallet.php">Read More...</a>
-                </div>
-                  
-                </div>
-                <div class="col-lg-6">
-                  <img src="images/GenesisDesktopWallets.jpg" class="img-fluid" alt="">
-                </div>
-              </div>
-            </div>End testimonial item
-
-            <div class="swiper-slide">
-              <div class="row event-item">
-               
-                <div class="col-lg-6 pt-4 pt-lg-0 content">
-                  <h2 class="title"> Metabox</h2>
-                  <div class="price">
-                    <p><span>$99</span></p>
-                  </div>
-                  <p class="fst-italic">
-                    Genesis desktop wallet Easly installed on a desktop or laptop computer that can be very helpful in your cryptocurrency transactions to a great extent. Cardano is the most feasible and widely used cryptocurrency for making digital currency transactions. Enjoy safe digital currency transactions with desktop wallet download.
-                  </p>
-                  <div class="heading-button">
-                    <a class="head-btn" target="_blank"  href="genesis_desktop_wallet.php">Read More...</a>
-                </div>
-                  
-                </div>
-                <div class="col-lg-6">
-                  <img src="images/GenesisDesktopWallets.jpg" class="img-fluid" alt="">
-                </div>
-              </div>
-            </div>End testimonial item
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </section>End Events Section
-            slider ended  -->
-
-            <section class="products  ov-h" >
-                <div class="container">
-                    <!-- Block @s -->
-                    <div class="nk-block nk-block-text-wrap">
-                        <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
-                           
-                            <div class="col-sm-10 col-md-6 text-center text-md-left">
-                                <div class="nk-block-text">
-                                    <h2 class="title products_head">Genesis Wallet</h2>
-                                    <p class="lead products_para">
-
-                                    The Genesis blockchain lab wallets are going to support trade, buy, and exchange of blockchain assets. Multiple transactions are going to be possible for users everyday. Customers will be able to choose a subscription based monthly plan rather than paying a specific fee for each transaction. This reduces the hassle of paying some amount during every transaction and the subscription also reduces the overall transaction fee.</p>
-                                    <!-- <a href="https://www.youtube.com/watch?v=SSo_EIwHSd4" class="video-popup btn-play-wrap btn-play-wrap-s1">
-                                        <div class="btn-play btn-play-sm btn-play-s2">
-                                            <em class="btn-play-icon"></em>
+                                        The Genesis blockchain lab wallets are going to support trade, buy, and exchange of blockchain assets. Multiple transactions are going to be possible for users everyday. Customers will be able to choose a subscription based monthly plan rather than paying a specific fee for each transaction. This reduces the hassle of paying some amount during every transaction and the subscription also reduces the overall transaction fee.</p>
+                                        <!-- <a href="https://www.youtube.com/watch?v=SSo_EIwHSd4" class="video-popup btn-play-wrap btn-play-wrap-s1">
+                                            <div class="btn-play btn-play-sm btn-play-s2">
+                                                <em class="btn-play-icon"></em>
+                                            </div>
+                                            <div class="btn-play-text">
+                                                <span class="text-sm">Watch Video</span>
+                                                <span class="text-xs">What and How it work</span>
+                                            </div>
+                                        </a> -->
+                                        <div class="heading-button products_btn">
+                                            <a class="head-btn" target="_blank"  href="genesis_wallet.php">Read More...</a>
                                         </div>
-                                        <div class="btn-play-text">
-                                            <span class="text-sm">Watch Video</span>
-                                            <span class="text-xs">What and How it work</span>
-                                        </div>
-                                    </a> -->
-                                    <div class="heading-button products_btn">
-                                        <a class="head-btn" target="_blank"  href="genesis_wallet.php">Read More...</a>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
-                                <div class="nk-block-img animated fadeInDown">
-                                    <img src="images/Genesis-Wallets.png" alt="gfx">
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- // -->
-            <section class="products-2  ov-h" data-aos="fade-up">
-                <div class="container">
-                    <!-- Block @s -->
-                    <div class="nk-block nk-block-text-wrap">
-                        <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
-                            <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
-                            <div class="nk-block-text">
-                                    <h2 class="title products_head">Genesis Exchange</h2>
-                                    <p class="lead products_para">
-
-                                    Genesis exchange is a decentralized cryptocurrencies trading platform that offers traders with multiple features. Traders can buy, sell and exchange cryptocurrencies for one another. They can even buy cryptos using fiat currencies or can covert cryptos back into fiat currencies. Our exchange platform is easy to use, facilitating novice and pro traders with great liquidity options.</p>
-                                    
-                                    <div class="heading-button products_btn">
-                                        <a class="head-btn" target="_blank"  href="genesisexchange.php">Read More...</a>
+                                <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
+                                    <div class="nk-block-img ">
+                                        <div class="nk-block-img">
+                                            <img class="img-fluid animated" src="images/Genesis-Wallets.png" alt="gfx">
+                                        </div> 
+                                        <!-- <img src="images/Genesis-Wallets.png" alt="gfx"> -->
                                     </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-10 col-md-6 text-center text-md-left">
-                            <div class="nk-block-img">
-                                    <img src="images/genisg-img.png" alt="gfx">
-                                </div>
                                 
+                                </div>
+
                             </div>
-                           
                         </div>
                     </div>
-                </div>
-            </section>
-             <!-- // -->
-             <!-- <section class="products-3 bg-white ov-h" id="ico">
-                <div class="container">
-                    Block @s
-                    <div class="nk-block nk-block-text-wrap">
-                        <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
-                            <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
-                                <div class="nk-block-img">
-                                    <img src="images/GenesisDesktopWallets.jpg" alt="gfx">
-                                </div>
-                            </div>
-                            <div class="col-sm-10 col-md-6 text-center text-md-left">
+                </section>
+                <!-- // -->
+                <section class="products-2  ov-h" data-aos="fade-up" id="products_2222">
+                    <div class="container">
+                        <!-- Block @s -->
+                        <div class="nk-block nk-block-text-wrap">
+                            <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
+                                <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
                                 <div class="nk-block-text">
-                                    <h2 class="title">Genesis Desktop Wallets</h2>
-                                    <p class="lead">
+                                        <h2 class="title products_head">Genesis Exchange</h2>
+                                        <p class="lead products_para">
 
-                                    Genesis desktop wallet Easly installed on a desktop or laptop computer that can be very helpful in your cryptocurrency transactions to a great extent. Cardano is the most feasible and widely used cryptocurrency for making digital currency transactions. Enjoy safe digital currency transactions with desktop wallet download.</p>
-                                    
-                                    <div class="heading-button">
-                                        <a class="head-btn" target="_blank"  href="genesis_desktop_wallet.php">Read More...</a>
+                                        Genesis exchange is a decentralized cryptocurrencies trading platform that offers traders with multiple features. Traders can buy, sell and exchange cryptocurrencies for one another. They can even buy cryptos using fiat currencies or can covert cryptos back into fiat currencies. Our exchange platform is easy to use, facilitating novice and pro traders with great liquidity options.</p>
+                                        
+                                        <div class="heading-button products_btn">
+                                            <a class="head-btn" target="_blank"  href="genesisexchange.php">Read More...</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-md-6 text-center text-md-left">
+                                    <div class="nk-block-img">
+                                        <img class="img-fluid animated" src="images/genisg-img.png" alt="gfx">
+                                    </div> 
+                                </div>
+                            
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- // -->
+        
+                <section class="products-3 tc-light bg-theme  ov-h" id="ico">
+                    <div class="container">
+                    
+                        <div class="nk-block nk-block-text-wrap">
+                            <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
+                                <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
+                                    <div class="nk-block-img">
+                                        <img class="img-fluid animated" src="images/Genesis_Blockchain.png" alt="gfx">
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-md-6 text-center text-md-left">
+                                    <div class="nk-block-text">
+                                        <h2 class="title products_head">Genesis Blockchain</h2>
+                                        <p class="lead products_para">
+
+                                        Genesis Blockchain will be a project aimed at concentrating more on the metaverse, gaming and NFT space. Blockchain, in general, is a distributed database or a public ledger of transactions that are executed and shared among all the participating computers/nodes. The basic characteristics of blockchain technology are decentralization, consensus mechanism, immutability and operation with peer-to-peer networks.</p>
+                                        
+                                        <div class="heading-button products_btn">
+                                            <a class="head-btn" target="_blank"  href="genesis _blockchain.php">Read More...</a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section> -->
-             <section class="products-3  ov-h" id="ico">
-                <div class="container">
-                  
-                    <div class="nk-block nk-block-text-wrap">
-                        <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
-                            <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
-                                <div class="nk-block-img">
-                                    <img src="images/Genesis_Blockchain.png" alt="gfx">
-                                </div>
-                            </div>
-                            <div class="col-sm-10 col-md-6 text-center text-md-left">
-                                <div class="nk-block-text">
-                                    <h2 class="title products_head">Genesis Blockchain</h2>
-                                    <p class="lead products_para">
-
-                                    Genesis Blockchain will be a project aimed at concentrating more on the metaverse, gaming and NFT space. Blockchain, in general, is a distributed database or a public ledger of transactions that are executed and shared among all the participating computers/nodes. The basic characteristics of blockchain technology are decentralization, consensus mechanism, immutability and operation with peer-to-peer networks.</p>
-                                    
-                                    <div class="heading-button products_btn">
-                                        <a class="head-btn" target="_blank"  href="genesis _blockchain.php">Read More...</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+                </section>
+           
+            <!-- </div>  blockchain_data   -->
              <!-- // -->
              <!-- <section class="products-4 bg-white ov-h">
                 <div class="container">
@@ -725,7 +584,7 @@
                 </div>
             </section> -->
             <!-- // -->
-            <section class="section section-tokensale tc-light bg-theme" id="token" data-aos="fade-up">
+            <section class="section section-tokensale update_bgg" id="token" data-aos="fade-up">
                 <!-- Block @s -->
                 <div class="container">
                     <div class="section-head text-center wide-auto-sm">
@@ -921,7 +780,7 @@
             </section> -->
 
             <!-- Roadmap  -->
-            <section class="section bg-white section-connect" id="roadmap">
+            <section class="section  bg-theme tc-light section-connect" id="roadmap">
                 <div class="container ov-h">
                     <div class="section-head text-center wide-auto-sm">
                         <h2 class="title title-s4" title="Roadmap">Our Roadmap</h2>
@@ -998,7 +857,7 @@
 
 
 
-            <section class="section bg-theme tc-light ov-h" id="team">
+            <section class="section update_bgg ov-h" id="team">
                 <div class="container">
                     <div class="section-head section-head-sm text-center wide-auto-sm">
                         <h2 class="title title-s4" title="team">Management team</h2>
@@ -1281,7 +1140,7 @@
 
          <!-- partner  -->
 
-            <section class="section bg-white" id="partners">
+            <section class="section  bg-theme tc-light" id="partners">
                 <div class="container">
                     <!-- Section Head @s -->
                     <div class="section-head text-center wide-auto-sm">
@@ -1301,7 +1160,7 @@
                 </div>
             </section>
             <!-- // -->
-            <section class="section bg-light section-connect" id="media-partner">
+            <section class="section tc-light  update_bgg section-connect" id="media-partner">
                <div class="transform-line"></div>
                 <div class="container">
                     <!-- Section Head @s -->
@@ -1469,6 +1328,7 @@
     <!-- Vendor JS Files -->
  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
  
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
  
 
 </body>

@@ -35,7 +35,7 @@
 		    <?php include("includes/headerInner.php"); ?>
              <!-- ======= Contact Section ======= -->
       <!-- // -->
-      <section class="section bg-white pb-0" id="term_conditions">
+      <section class="section bg-theme tc-light pb-0" id="term_conditions">
                 <div class="container">
                     <div class="section-head text-center wide-auto-sm">
                         <h1 class="title title-s4" title="CONDITION">Terms And Condition</h1>
