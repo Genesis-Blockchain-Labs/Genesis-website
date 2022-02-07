@@ -62,7 +62,7 @@
                         <div class="row align-items-center gutter-vr-30px justify-content-center justify-content-md-between">
                             <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5">
                                 <div class="gfx py-4 ">
-                                    <img class="gensis-exchange-img" src="images/genisg-img.png" alt="app">
+                                    <img class="gensis-exchange-img" src="images/genesis_exchange_update.png" alt="app">
                                 </div>
                             </div><!-- .col -->
                             <div class="col-sm-10 col-md-6 text-center text-md-left">

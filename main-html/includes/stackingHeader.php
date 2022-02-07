@@ -8,7 +8,7 @@
 				<a href="./" class="logo-link">
 				   
 					<!-- <img class="logo-light" src="images/logo-white.png" srcset="images/logo-white2x.png 2x" alt="logo"> -->
-					<img class="logo-light" src="images/GenesisBlockchainLabs_Logos-05.png" srcset="" alt="logo">
+					<img class="logo-light" src="images/Genesis_update_logo.png" srcset="" alt="logo">
 				</a>
 			</div>
 
@@ -30,7 +30,7 @@
 							<ul class="menu-sub menu-drop">
 								<li class="menu-item"><a class="menu-link nav-link"  href="genesis_wallet.php">Genesis Wallets</a></li>
 								<li class="menu-item"><a class="menu-link nav-link"  href="genesisexchange.php">Genesis Exchange</a></li>
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesis_desktop_wallet.php">Genesis Desktop Wallets</a></li>
+								<!-- <li class="menu-item"><a class="menu-link nav-link"  href="genesis_desktop_wallet.php">Genesis Desktop Wallets</a></li> -->
 								<li class="menu-item"><a class="menu-link nav-link"  href="genesis _blockchain.php">Genesis Blockchain</a></li>
 								<!-- <li class="menu-item"><a class="menu-link nav-link" target="_blank" href="metabox.php">Metabox</a></li> -->
 							</ul>

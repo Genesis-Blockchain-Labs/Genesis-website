@@ -7723,15 +7723,21 @@ color: #fff; }
 
 .logo-lg img { height: 52px; }
 
+@media (min-width: 1600px){
+
+ .container {
+    max-width: 1225px !important;
+  }
+}
 @media (min-width: 992px) { .header-navbar:not(.header-navbar-classic) { height: auto; width: auto; left: 0; }
   .header-main { padding: 20px 0; }
   .header-nav-toggle { display: none; }
   .header-container:not(.container) { padding: 0 25px; }
   .header-container-s1:not(.container) { padding: 0 25px; }
   .header-banner { min-height: 98px; }
-  .logo img { height: 42px; }
-  .logo-md img { height: 42px; }
-  .logo-lg img { height: 42px; } }
+  .logo img { height: 35px; }
+  .logo-md img { height: 35px; }
+  .logo-lg img { height: 35px; } }
 
 @media (min-width: 1200px) { .header-container:not(.container) { padding: 0 25px; }
   .header-container-s1:not(.container) { padding: 0 35px; } }

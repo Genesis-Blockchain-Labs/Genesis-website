@@ -319,7 +319,7 @@
                                 </div>
                                 <div class="col-sm-10 col-md-6 text-center text-md-left">
                                     <div class="nk-block-img">
-                                        <img class="img-fluid animated" src="images/genisg-img.png" alt="gfx">
+                                        <img class="img-fluid animated" src="images/genesis_exchange_update.png" alt="gfx">
                                     </div> 
                                 </div>
                             
