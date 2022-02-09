@@ -288,7 +288,7 @@
                                 <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
                                     <div class="nk-block-img ">
                                         <div class="nk-block-img">
-                                            <img class="img-fluid animated" src="images/Genesis-Wallets.png" alt="gfx">
+                                            <img class="img-fluid animated" src="images/mobileslider_3.png" alt="gfx">
                                         </div> 
                                         <!-- <img src="images/Genesis-Wallets.png" alt="gfx"> -->
                                     </div>

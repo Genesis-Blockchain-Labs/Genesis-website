@@ -65,7 +65,6 @@
                             <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
                                 <div class="nk-block-img">
                                     <div class="items">
-                                        <div><img src="images/Genesis-Wallets.png"></div>
                                         <div><img src="images/mobileslider_2.png"></div>
                                         <div><img src="images/mobileslider_3.png"></div>
                                         <div><img src="images/mobileslider_4.png"></div>
