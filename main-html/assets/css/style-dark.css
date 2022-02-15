@@ -1536,6 +1536,63 @@ p.fst-italic {
   padding-left: 35px;
 }
 
+
+/* genesis blockchain pages   */
+
+.blockchain_cards{
+  background: #131638;
+  padding: 50px 0px;
+}
+.update_border{
+  border-bottom: 1px solid #10122d;
+}
+.blockchain_items {
+  display: flex;
+  gap: 30px;
+  text-align: center;
+  position: relative;
+  margin-top: -150px;
+}
+.easytotrans{
+  background: #10122d;
+  padding: 20px;
+}
+.bc_text {
+  color: #fff;
+  padding-top: 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+p.bcpara {
+  color: #fff;
+  font-size: 14px;
+}
+.bcgimg {
+  max-height: 70px;
+}
+.bc_data_head {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+}
+.bc_data_para{
+  color: #fff;
+  font-size: 16px;
+}
+.block_item_1{
+  background: url(/images/genesis_blockchain/fholproff.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  padding: 20px 0px 20px 80px;
+}
+.bc_items_head {
+  color: #fff;
+}
+.bc_items_para{
+  color: #fff;
+}
+
+
 /* responsive  */
 @media(max-width: 992px){
 
@@ -8131,5 +8188,7 @@ color: #fff; }
 /* END @iO */
 /* END @iO */
 
+
+/* blockchain page started  */
 
 

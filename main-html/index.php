@@ -288,7 +288,7 @@
                                 <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
                                     <div class="nk-block-img ">
                                         <div class="nk-block-img">
-                                            <img class="img-fluid animated" src="images/mobileslider_3.png"  alt="gfx">
+                                            <img class="img-fluid animated" src="images/GenesisDesktopWallets2022.png"  alt="gfx">
                                         </div> 
                                         <!-- <img src="images/Genesis-Wallets.png" alt="gfx"> -->
                                     </div>
@@ -319,7 +319,7 @@
                                 </div>
                                 <div class="col-sm-10 col-md-6 text-center text-md-left">
                                     <div class="nk-block-img">
-                                        <img class="img-fluid animated" src="images/genesis_exchange_update.png" alt="gfx">
+                                        <img class="img-fluid animated" src="images/cryptocurrencies.png" alt="gfx">
                                     </div> 
                                 </div>
                             

@@ -52,7 +52,7 @@
  
         <section>
             <div class="gensis-wallet-bg">
-                <img src="images/banner1.jpg" alt="">
+                <img src="images/blockchain_wallet/blockchain_wallet_bg.jpg" alt="">
             </div>
         </section>
     
@@ -98,10 +98,98 @@
                 </div>
             </section>
             <!-- // -->
-          
 
-           
+             <!-- // -->
+             <section class="blockchain_cards ">
+                <div class="container">
+                    <div class="row">
+                        <div class="blockchain_items">
+
+                            <div class="easytotrans">
+                                <div class="bg_img">
+                                    <img class="bcgimg" src="images/genesis_blockchain/easy_blockchain.png" alt="">
+                                </div>
+                                <div class="title">
+                                    <h6 class="bc_text">Easy To Transact</h6>
+                                </div>
+                                <div class="paragraph">
+                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                </div>
+                            </div>
+
+                            <div class="easytotrans">
+                                <div class="bg_img">
+                                    <img class="bcgimg" src="images/genesis_blockchain/no_fear.png" alt="">
+                                </div>
+                                <div class="title">
+                                    <h6 class="bc_text">No Fear Of Loss</h6>
+                                </div>
+                                <div class="paragraph">
+                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                </div>
+                            </div>
+
+                            <div class="easytotrans">
+                                <div class="bg_img">
+                                    <img class="bcgimg" src="images/genesis_blockchain/fholproff.png" alt="">
+                                </div>
+                                <div class="title">
+                                    <h6 class="bc_text">Foolproof Security</h6>
+                                </div>
+                                <div class="paragraph">
+                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
             <!-- // -->
+
+                <!-- // -->
+                <section class="section products-3 ov-h update_border"  id="products_2222">
+                <div class="container">
+                        <div class="row align-items-center justify-content-center ">
+                                <div class=" col-md-6 ">
+                                    <div class="nk-block-img">
+                                        <img class="img-fluid " src="images/blockchain_wallet/block_wallet_1.png" alt="gfx">
+                                    </div> 
+                                </div>
+                        
+                            <div class=" col-md-6">
+                                <!-- <div class="blockchain_data_2"> -->
+                                    <h4 class="bc_data_head">Lorem ipsum dummy text</h4>
+                                    <p class="bc_data_para">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>   
+                                <!-- </div> -->
+                            </div>
+                        </div>
+                </div>
+            </section>
+            <!-- // -->
+
+                <!-- // -->
+                <section class="section products-3 ov-h "  id="products_2222">
+                <div class="container">
+                        <div class="row align-items-center justify-content-center ">
+                
+                            <div class=" col-md-6">
+                                <div class="blockchain_data_2">
+                                    <h4 class="bc_data_head">Lorem ipsum dummy text</h4>
+                                    <p class="bc_data_para">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>   
+                                </div>
+                            </div>
+
+                            <div class=" col-md-6 ">
+                                <div class="nk-block-img">
+                                    <img class="img-fluid " src="images/blockchain_wallet/block_wallet_2.png" alt="gfx">
+                                </div> 
+                            </div>
+
+                        </div>
+                </div>
+            </section>
+            <!-- // -->
+
         </main>
         <?php include("includes/footer.php"); ?>
 	</div>
