@@ -141,16 +141,16 @@
                                     <p class="bc_data_para">Genesis Blockchain aims at concentrating more on the metaverse, gaming and NFT space.</p>
                                     <div class="blockchain_2_items">
                                         <div class="block_item_1">
-                                            <h6 class="bc_items_head">Lorem ipsum dolor sit amet</h6>
-                                            <p class="bc_items_para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h6 class="bc_items_head">METAVERSE</h6>
+                                            <p class="bc_items_para">Meta verse is an immersive virtual world shared across players. All meta verses have their own economies and currencies. Users can use these currencies to buy, sell and trade digital items. </p>
                                         </div>
                                         <div class="block_item_1">
-                                            <h6 class="bc_items_head">Lorem ipsum dolor sit amet</h6>
-                                            <p class="bc_items_para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h6 class="bc_items_head">NFTs </h6>
+                                            <p class="bc_items_para">NFTs are unique digital collectibles used on a blockchain. They are used in various games.These are paly-to-earn models where players can earn tokens or sell NFTs to other collectors in exchange for tokens.  </p>
                                         </div>
                                         <div class="block_item_1">
-                                            <h6 class="bc_items_head">Lorem ipsum dolor sit amet</h6>
-                                            <p class="bc_items_para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h6 class="bc_items_head">METABOX</h6>
+                                            <p class="bc_items_para">Meta box is a virtual world for the players to create, own and monetize their unique gaming experiences and get rewards for participation in the ecosystem.</p>
                                         </div>
                                     </div>    
                                 </div>

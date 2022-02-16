@@ -113,7 +113,7 @@
                                     <h6 class="bc_text">Easy To Transact</h6>
                                 </div>
                                 <div class="paragraph">
-                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                    <p class="bcpara">We are committed to providing an easy-to-use mobile crypto wallet application that will enable its users to send, receive, store, spend, exchange /swap and stake crypto tokens as per the users convenience at any time</p>
                                 </div>
                             </div>
 
@@ -125,7 +125,7 @@
                                     <h6 class="bc_text">No Fear Of Loss</h6>
                                 </div>
                                 <div class="paragraph">
-                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                    <p class="bcpara">Our mobile wallet is a user-friendly multi-crypto mobile application that is simpler and safer. The users will be able to securely store their crypto coins to use them for transactions on a P2P level without any third-party intermediaries </p>
                                 </div>
                             </div>
 
@@ -134,10 +134,10 @@
                                     <img class="bcgimg" src="images/genesis_blockchain/fholproff.png" alt="">
                                 </div>
                                 <div class="title">
-                                    <h6 class="bc_text">Foolproof Security</h6>
+                                    <h6 class="bc_text">Earn Staking Rewards:</h6>
                                 </div>
                                 <div class="paragraph">
-                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                    <p class="bcpara">For every transaction done within our services, the token holder will be rewarded for holding the tokens by staking them. The staking process allows users to earn rewards by holding up tokens to participatein securing the network.</p>
                                 </div>
                             </div>
                         </div>
@@ -158,8 +158,8 @@
                         
                             <div class=" col-md-6">
                                 <!-- <div class="blockchain_data_2"> -->
-                                    <h4 class="bc_data_head">Lorem ipsum dummy text</h4>
-                                    <p class="bc_data_para">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>   
+                                    <h4 class="bc_data_head">Future plan for genesis wallet </h4>
+                                    <p class="bc_data_para">We aim to facilitate buying and selling regular investments, such as stock, bonds, mutual funds and tokenized stocks from a single wallet. The users will directly be able to trade everything in one place.</p>   
                                 <!-- </div> -->
                             </div>
                         </div>
@@ -174,8 +174,8 @@
                 
                             <div class=" col-md-6">
                                 <div class="blockchain_data_2">
-                                    <h4 class="bc_data_head">Lorem ipsum dummy text</h4>
-                                    <p class="bc_data_para">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>   
+                                    <h4 class="bc_data_head">Tokenized stocks</h4>
+                                    <p class="bc_data_para">Tokenized stocks are digital assets that users can trade on various licensed exchange platforms using blockchain technology. They are basically a type of derivative of an underlying stock that does not offer that holder any ownership in the underlying equity</p>   
                                 </div>
                             </div>
 
