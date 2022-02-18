@@ -134,7 +134,7 @@
                                     <img class="bcgimg" src="images/genesis_blockchain/fholproff.png" alt="">
                                 </div>
                                 <div class="title">
-                                    <h6 class="bc_text">Earn Staking Rewards:</h6>
+                                    <h6 class="bc_text">Earn Staking Rewards</h6>
                                 </div>
                                 <div class="paragraph">
                                     <p class="bcpara">For every transaction done within our services, the token holder will be rewarded for holding the tokens by staking them. The staking process allows users to earn rewards by holding up tokens to participatein securing the network.</p>
@@ -158,8 +158,9 @@
                         
                             <div class=" col-md-6">
                                 <!-- <div class="blockchain_data_2"> -->
-                                    <h4 class="bc_data_head">Future plan for genesis wallet </h4>
-                                    <p class="bc_data_para">We aim to facilitate buying and selling regular investments, such as stock, bonds, mutual funds and tokenized stocks from a single wallet. The users will directly be able to trade everything in one place.</p>   
+                                    <h4 class="bc_data_head">Future Plan For Genesis Wallet </h4>
+                                    <p class="bc_data_para">Genesis Labs is planned to provide excellent crypto currency application scenarios like desktop crypto wallet sand a full-fledged decentralized crypto exchange that will help mass adoption of crypto currencies. We aim to facilitate buying and selling regular investments, such as stock, bonds, mutual funds and tokenized stocks from a single wallet. The users will directly be able to trade everything in one place.
+                                    </p>   
                                 <!-- </div> -->
                             </div>
                         </div>
@@ -174,8 +175,8 @@
                 
                             <div class=" col-md-6">
                                 <div class="blockchain_data_2">
-                                    <h4 class="bc_data_head">Tokenized stocks</h4>
-                                    <p class="bc_data_para">Tokenized stocks are digital assets that users can trade on various licensed exchange platforms using blockchain technology. They are basically a type of derivative of an underlying stock that does not offer that holder any ownership in the underlying equity</p>   
+                                    <h4 class="bc_data_head">Tokenized Stocks</h4>
+                                    <p class="bc_data_para">Tokenized stocks are digital assets that users can trade on various licensed exchange platforms using blockchain technology. They are basically a type of derivative of an underlying stock that does not offer that holder any ownership in the underlying equity. Instead, it is a mirrored asset of the underlying stock, that is redeemable for the actual. In addition, they come with the feature of fractionalized stock ownership, wherein the investors can buy a fraction of a share of that particular stock. </p>   
                                 </div>
                             </div>
 

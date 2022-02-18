@@ -96,7 +96,7 @@
                                     <h6 class="bc_text">Easy To Transact</h6>
                                 </div>
                                 <div class="paragraph">
-                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                    <p class="bcpara">We are committed to providing an easy-to-use mobile crypto wallet application that will enable its users to send, receive, store, spend, exchange /swap and stake crypto tokens as per the users convenience at any time</p>
                                 </div>
                             </div>
 
@@ -108,7 +108,7 @@
                                     <h6 class="bc_text">No Fear Of Loss</h6>
                                 </div>
                                 <div class="paragraph">
-                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                    <p class="bcpara">Our mobile wallet is a user-friendly multi-crypto mobile application that is simpler and safer. The users will be able to securely store their crypto coins to use them for transactions on a P2P level without any third-party intermediaries</p>
                                 </div>
                             </div>
 
@@ -117,10 +117,10 @@
                                     <img class="bcgimg" src="images/genesis_blockchain/fholproff.png" alt="">
                                 </div>
                                 <div class="title">
-                                    <h6 class="bc_text">Foolproof Security</h6>
+                                    <h6 class="bc_text">Earn Staking Rewards</h6>
                                 </div>
                                 <div class="paragraph">
-                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                    <p class="bcpara">For every transaction done within our services, the token holder will be rewarded for holding the tokens by staking them. The staking process allows users to earn rewards by holding up tokens to participatein securing the network.</p>
                                 </div>
                             </div>
                         </div>
@@ -141,8 +141,9 @@
                         
                             <div class=" col-md-6">
                                 <!-- <div class="blockchain_data_2"> -->
-                                    <h4 class="bc_data_head">Lorem ipsum dummy text</h4>
-                                    <p class="bc_data_para">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>   
+                                    <h4 class="bc_data_head">LIQUIDITY</h4>
+                                    <p class="bc_data_para">Providing liquidity is one of the prime parameters of any exchange to start operation. The traders do not like to engage with exchanges that do not provide enough liquidity. A shallow order book can cause high slippage, which in turn becomes very expensive for traders.
+Our team has rigorous finance and crypto industry experience and has an extensive network of partners in the space which is a key factor in bootstrapping the exchange.</p>   
                                 <!-- </div> -->
                             </div>
                         </div>
@@ -157,8 +158,9 @@
                 
                             <div class=" col-md-6">
                                 <div class="blockchain_data_2">
-                                    <h4 class="bc_data_head">Lorem ipsum dummy text</h4>
-                                    <p class="bc_data_para">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>   
+                                    <h4 class="bc_data_head">INTUITIVE INTERFACE</h4>
+                                    <p class="bc_data_para">Many of the traders in the crypto market are new to investment in the decentralized space and are not so familiar with crypto currencies and trading. Exchange is the first entry point when a novice investor tries to discover crypto currency investment. Therefore, an exchange needs to have an intuitive interface for both novice and pro traders.
+We are coming up with an exchange platform that is easy to use and does not hold any complexities. Moreover, it will be built high standards to ensure security in the first place.</p>   
                                 </div>
                             </div>
 

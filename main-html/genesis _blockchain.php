@@ -89,7 +89,7 @@
                                     <h6 class="bc_text">Easy To Transact</h6>
                                 </div>
                                 <div class="paragraph">
-                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                    <p class="bcpara">We are committed to providing an easy-to-use mobile crypto wallet application that will enable its users to send, receive, store, spend, exchange /swap and stake crypto tokens as per the users convenience at any time</p>
                                 </div>
                             </div>
 
@@ -101,7 +101,7 @@
                                     <h6 class="bc_text">No Fear Of Loss</h6>
                                 </div>
                                 <div class="paragraph">
-                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                    <p class="bcpara">Our mobile wallet is a user-friendly multi-crypto mobile application that is simpler and safer. The users will be able to securely store their crypto coins to use them for transactions on a P2P level without any third-party intermediaries</p>
                                 </div>
                             </div>
 
@@ -110,10 +110,10 @@
                                     <img class="bcgimg" src="images/genesis_blockchain/fholproff.png" alt="">
                                 </div>
                                 <div class="title">
-                                    <h6 class="bc_text">Foolproof Security</h6>
+                                    <h6 class="bc_text">Earn Staking Rewards</h6>
                                 </div>
                                 <div class="paragraph">
-                                    <p class="bcpara">Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod tempor incidiunt ut labore et dolore</p>
+                                    <p class="bcpara">For every transaction done within our services, the token holder will be rewarded for holding the tokens by staking them. The staking process allows users to earn rewards by holding up tokens to participatein securing the network.</p>
                                 </div>
                             </div>
                         </div>
