@@ -53,7 +53,7 @@
                                     <div class="col-lg-6">
                                         <div class="banner-caption wide-auto text-center text-lg-left">
                                             <div class="cpn-head mt-0">
-                                                <h1 class="title title-xl-2"> Bringing Digital Assets and stocks Closer to Millions of Indians</h1>
+                                                <h1 class="title title-xl-2"> Bringing Digital Assets and stocks Closer to Millions of People</h1>
                                             </div>
                                             <div class="cpn-text cpn-text-s1">
                                                 <p class="lead">
