@@ -62,7 +62,7 @@
         <div class="view">
           <!--Video source-->
           <video class="video-fluid" autoplay loop muted>
-            <source src="images/index_videos/COVER VIDEO.mp4" type="video/mp4" />
+            <source src="images/index_videos/home_video.mp4" type="video/mp4" />
           </video>
           <div class="mask rgba-indigo-light"></div>
         </div>
