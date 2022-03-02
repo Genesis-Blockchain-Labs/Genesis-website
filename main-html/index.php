@@ -44,7 +44,42 @@
 		<header class="nk-header page-header is-transparent is-sticky is-shrink is-dark" id="header">
 		    <?php include("includes/header.php"); ?>
             <!-- Banner @s -->
-            <div class="header-banner bg-theme-dark" data-aos="fade-up">
+            <section>
+                 <!--Carousel Wrapper-->
+<div id="video-carousel-example2" class="carousel slide carousel-fade" data-ride="carousel">
+    <!--Indicators-->
+    <ol class="carousel-indicators">
+      <li data-target="#video-carousel-example2" data-slide-to="0" class="active"></li>
+      <!-- <li data-target="#video-carousel-example2" data-slide-to="1"></li>
+      <li data-target="#video-carousel-example2" data-slide-to="2"></li> -->
+    </ol>
+    <!--/.Indicators-->
+    <!--Slides-->
+    <div class="carousel-inner" role="listbox">
+      <!-- First slide -->
+      <div class="carousel-item active">
+        <!--Mask color-->
+        <div class="view">
+          <!--Video source-->
+          <video class="video-fluid" autoplay loop muted>
+            <source src="images/index_videos/COVER VIDEO.mp4" type="video/mp4" />
+          </video>
+          <div class="mask rgba-indigo-light"></div>
+        </div>
+  
+        <!--Caption-->
+        <!-- <div class="carousel-caption">
+          <div class="animated fadeInDown">
+            <h1 class="hero_head_text">Lorem lpsum is Simply dummy text of the <span class="banner_head">printing.</span></h1>
+          </div>
+        </div> -->
+        <!--Caption-->
+      </div>
+      <!-- /.First slide -->
+    </div>
+</div>
+            </section>
+            <!-- <div class="header-banner bg-theme-dark" data-aos="fade-up">
                 <div class="nk-banner">
                     <div class="banner banner-mask-fix banner-fs banner-single tc-light">
                         <div class="banner-wrap ov-v">
@@ -66,69 +101,26 @@
                                             </div>
                                             <div class="heading-buttons">
                                                
-                                                <!-- <div class="container"> -->
+                                                <div class="container">
                                               
-                                                <!-- App Store button -->
+                                                App Store button
                                                 <a href="comming.php" target="_blank" class="market-btn apple-btn" role="button">
                                                   <span class="market-button-subtitle">Download on the</span>
                                                   <span class="market-button-title">App Store</span>
                                                 </a>
                                                 
-                                                <!-- Google Play button -->
+                                                Google Play button
                                                 <a href="comming.php" target="_blank" class="market-btn google-btn" role="button">
                                                   <span class="market-button-subtitle">Download on the</span>
                                                   <span class="market-button-title">Google Play</span>
                                                 </a>
 
-                                                <!-- popup -->
-                                               
-
-  
-
-                                             
-                                                <!-- Windows store button -->
-                                                <!-- <a href="https://www.kobinet.com.tr/" target="_blank" class="market-btn windows-btn" role="button">
-                                                  <span class="market-button-subtitle">Download on the</span>
-                                                  <span class="market-button-title">Windows Store</span>
-                                                </a> -->
-                                                
-                                                <!-- Amazon button -->
-                                                <!-- <a href="https://www.kobinet.com.tr/" target="_blank" class="market-btn amazon-btn" role="button">
-                                                  <span class="market-button-subtitle">Order now at</span>
-                                                  <span class="market-button-title">Amazon.com</span>
-                                                </a> -->
-                                              
-                                                <!-- </div> -->
-                                                  
+                                 
                                             </div>
 
-                                            <!-- popup  -->
-                                            
-                                            <!-- <div class="cpn-btns">
-                                                <ul class="btn-grp"> -->
-
-                                                    <!-- <div class="buttons">
-                                                         <a href="#" class="btn btn-success btn-lg" data-wow-duration="2s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                                                            <i class="fa fa-android fa-2x"></i> Download<br> <small>Android version 1.4</small></a>
-                                                             <a href="#" class="btn btn-info btn-lg wow fadeInRight animated" data-wow-duration="3s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 3s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                                                                <i class="fa fa-apple fa-2x"></i> Download <br> <small>iOs version 1.4</small></a>
-                                                     </div> -->
-                                                    <!-- <li><a href="#" class="btn btn-md btn-grad btn-round">Sign up to join</a></li>
-                                                    <li><a href="#" class="btn btn-md btn-grad btn-grad-alternet btn-round">Token Distribution</a></li> -->
-                                                <!-- </ul>
-                                            </div> -->
-                                            <!-- <div class="cpn-social">
-                                                <ul class="social">
-                                                    <li><a href="#"><em class="social-icon fab fa-facebook-f"></em></a></li>
-                                                    <li><a href="#"><em class="social-icon fab fa-twitter"></em></a></li>
-                                                    <li><a href="#"><em class="social-icon fab fa-youtube"></em></a></li>
-                                                    <li><a href="#"><em class="social-icon fab fa-github"></em></a></li>
-                                                    <li><a href="#"><em class="social-icon fab fa-bitcoin"></em></a></li>
-                                                    <li><a href="#"><em class="social-icon fab fa-medium-m"></em></a></li>
-                                                </ul>
-                                            </div> -->
+                                          
                                         </div>
-                                    </div><!-- .col -->
+                                    </div>.col
                                     <div class="col-lg-5 col-sm-9">
                                         <div class="token-status token-status-s5 bg-transparent no-bd">
                                             <div class="nk-circle-pk">
@@ -150,17 +142,17 @@
                                                 <li><em class="fab fa-cc-mastercard"></em></li>
                                             </ul>
                                         </div>
-                                    </div><!-- .col -->
-                                </div><!-- .row -->
+                                    </div>.col
+                                </div>.row
                             </div>
                         </div>
                     </div>
-                </div><!-- .nk-banner -->
+                </div>.nk-banner
                 <div class="nk-ovm mask-c-dark shape-v mask-contain-bottom"></div>
                 
-                <!-- Place Particle Js -->
+                Place Particle Js
                 <div id="particles-bg" class="particles-container particles-bg" data-pt-base="#00c0fa" data-pt-base-op=".3" data-pt-line="#2b56f5" data-pt-line-op=".5" data-pt-shape="#00c0fa" data-pt-shape-op=".2"></div>
-            </div>
+            </div> -->
 			<!-- .header-banner @e -->
 		</header>
     <!-- slider_parudt started  -->

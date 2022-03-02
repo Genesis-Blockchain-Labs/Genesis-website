@@ -47,9 +47,128 @@
 		</header>
 
         <section>
-            <div class="gensis-wallet-bg">
-                <img src="images/blockchain.jpg" alt="">
+              <!-- Banner @s -->
+              <div class="header-banner bg-theme-dark" data-aos="fade-up">
+                <div class="nk-banner">
+                    <div class="banner banner-mask-fix banner-fs banner-single tc-light">
+                        <div class="banner-wrap ov-v">
+                            <div class="container">
+                                <div class="row align-items-center justify-content-center justify-content-lg-between gutter-vr-30px">
+                                    <div class="col-lg-6">
+                                        <div class="banner-caption wide-auto text-center text-lg-left">
+                                            <div class="cpn-head mt-0">
+                                                <h1 class="title title-xl-2"> Bringing Digital Assets and stocks Closer to Millions of People</h1>
+                                            </div>
+                                            <!-- <div class="cpn-text cpn-text-s1">
+                                                <p class="lead">
+
+                                                    Genesis Blockchain Labs is building NextGen
+                                                    Industry Leading products in Blockchain
+                                                    Technology. Buy , Sell and Trade cryptocurrencies
+                                                    24/7 using Genesis products and Earn Rewards
+                                                    with Crypto.</p>
+                                            </div> -->
+                                            <!-- <div class="heading-buttons"> -->
+                                               
+                                                <!-- <div class="container"> -->
+                                              
+                                                <!-- App Store button -->
+                                                <!-- <a href="comming.php" target="_blank" class="market-btn apple-btn" role="button">
+                                                  <span class="market-button-subtitle">Download on the</span>
+                                                  <span class="market-button-title">App Store</span>
+                                                </a> -->
+                                                
+                                                <!-- Google Play button -->
+                                                <!-- <a href="comming.php" target="_blank" class="market-btn google-btn" role="button">
+                                                  <span class="market-button-subtitle">Download on the</span>
+                                                  <span class="market-button-title">Google Play</span>
+                                                </a> -->
+
+                                                <!-- popup -->
+                                               
+
+  
+
+                                             
+                                                <!-- Windows store button -->
+                                                <!-- <a href="https://www.kobinet.com.tr/" target="_blank" class="market-btn windows-btn" role="button">
+                                                  <span class="market-button-subtitle">Download on the</span>
+                                                  <span class="market-button-title">Windows Store</span>
+                                                </a> -->
+                                                
+                                                <!-- Amazon button -->
+                                                <!-- <a href="https://www.kobinet.com.tr/" target="_blank" class="market-btn amazon-btn" role="button">
+                                                  <span class="market-button-subtitle">Order now at</span>
+                                                  <span class="market-button-title">Amazon.com</span>
+                                                </a> -->
+                                              
+                                                <!-- </div> -->
+                                                  
+                                            <!-- </div> -->
+
+                                            <!-- popup  -->
+                                            
+                                            <!-- <div class="cpn-btns">
+                                                <ul class="btn-grp"> -->
+
+                                                    <!-- <div class="buttons">
+                                                         <a href="#" class="btn btn-success btn-lg" data-wow-duration="2s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                                                            <i class="fa fa-android fa-2x"></i> Download<br> <small>Android version 1.4</small></a>
+                                                             <a href="#" class="btn btn-info btn-lg wow fadeInRight animated" data-wow-duration="3s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 3s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                                                                <i class="fa fa-apple fa-2x"></i> Download <br> <small>iOs version 1.4</small></a>
+                                                     </div> -->
+                                                    <!-- <li><a href="#" class="btn btn-md btn-grad btn-round">Sign up to join</a></li>
+                                                    <li><a href="#" class="btn btn-md btn-grad btn-grad-alternet btn-round">Token Distribution</a></li> -->
+                                                <!-- </ul>
+                                            </div> -->
+                                            <!-- <div class="cpn-social">
+                                                <ul class="social">
+                                                    <li><a href="#"><em class="social-icon fab fa-facebook-f"></em></a></li>
+                                                    <li><a href="#"><em class="social-icon fab fa-twitter"></em></a></li>
+                                                    <li><a href="#"><em class="social-icon fab fa-youtube"></em></a></li>
+                                                    <li><a href="#"><em class="social-icon fab fa-github"></em></a></li>
+                                                    <li><a href="#"><em class="social-icon fab fa-bitcoin"></em></a></li>
+                                                    <li><a href="#"><em class="social-icon fab fa-medium-m"></em></a></li>
+                                                </ul>
+                                            </div> -->
+                                        </div>
+                                    </div><!-- .col -->
+                                    <!-- <div class="col-lg-5 col-sm-9">
+                                        <div class="token-status token-status-s5 bg-transparent no-bd">
+                                            <div class="nk-circle-pk">
+                                                <div class="line-1"></div>
+                                                <div class="line-2"></div>
+                                                <div class="line-3"></div>
+                                                <div class="line-4"></div>
+                                            </div>
+                                            <div class="token-box token-box-s3">
+                                                <div class="countdown-s3 countdown-s4 countdown" data-date="2021/08/10"></div>
+                                            </div>
+                                            <div class="token-action">
+                                                <a class="btn btn-rg btn-grad btn-grad-alternet btn-round" href="#token">join &amp; Buy Token</a>
+                                            </div>
+                                            <ul class="icon-list">
+                                                <li><em class="fab fa-bitcoin"></em></li>
+                                                <li><em class="fas fa-won-sign"></em></li>
+                                                <li><em class="fab fa-cc-visa"></em></li>
+                                                <li><em class="fab fa-cc-mastercard"></em></li>
+                                            </ul>
+                                        </div>
+                                    </div>.col -->
+                                </div><!-- .row -->
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- .nk-banner -->
+                <div class="nk-ovm mask-c-dark shape-v mask-contain-bottom"></div>
+                
+                <!-- Place Particle Js -->
+                <div id="particles-bg" class="particles-container particles-bg" data-pt-base="#00c0fa" data-pt-base-op=".3" data-pt-line="#2b56f5" data-pt-line-op=".5" data-pt-shape="#00c0fa" data-pt-shape-op=".2"></div>
             </div>
+			<!-- .header-banner @e -->
+            <!-- <div class="gensis-wallet-bg">
+                <img src="images/blockchain.jpg" alt="">
+            </div> -->
         </section>
     
         <!-- <main class="nk-pages"> -->
