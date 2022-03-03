@@ -28,14 +28,14 @@
 					<li class="menu-item has-sub">
 							<a class="menu-link nav-link menu-toggle" href="#">Technology</a>
 							<ul class="menu-sub menu-drop">
-							<li class="menu-item"><a class="menu-link nav-link"  href="genesis _blockchain.php">Genesis Blockchain</a></li>		
+							<li class="menu-item"><a class="menu-link nav-link"  href="genesis _blockchain.php">Genesis Blockchain3</a></li>		
 							</ul>
 						</li>
 						<li class="menu-item has-sub">
 							<a class="menu-link nav-link menu-toggle" href="#">Products</a>
 							<ul class="menu-sub menu-drop">
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesis_wallet.php">Genesis Wallets</a></li>
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesisexchange.php">Genesis Exchange</a></li>
+							<li class="menu-item"><a class="menu-link nav-link"  href="genesis_wallet.php">Genesis Wallets3</a></li>
+								<li class="menu-item"><a class="menu-link nav-link"  href="genesisexchange.php">Genesis Exchange3</a></li>
 								<!-- <li class="menu-item"><a class="menu-link nav-link"  href="genesis_desktop_wallet.php">Genesis Desktop Wallets</a></li> -->
 								<!-- <li class="menu-item"><a class="menu-link nav-link" target="_blank" href="metabox.php">Metabox</a></li> -->
 							</ul>
@@ -76,9 +76,9 @@
 </div><!-- .header-main @e -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
-$(document).ready(function(){
+/*$(document).ready(function(){
 	$(".menu-link").click(function(){
 		window.location.href="https://genesisblockchainlabs.com"+$(this).attr("href");
 	});
-})
+})*/
 </script>

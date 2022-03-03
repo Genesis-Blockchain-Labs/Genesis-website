@@ -297,7 +297,7 @@
                         <!-- Block @s -->
                         <div class="nk-block nk-block-text-wrap">
                             <div class="row align-items-center justify-content-center justify-content-md-between gutter-vr-30px">
-                                <div class="col-mb-9 col-sm-7 col-md-6 col-lg-5 order-md-last">
+                                <div class="col-sm-10 col-md-6 text-center text-md-left">
                                 <div class="nk-block-text">
                                         <h2 class="title products_head">Genesis Exchange</h2>
                                         <p class="lead products_para">

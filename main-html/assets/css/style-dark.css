@@ -327,9 +327,7 @@ button:focus {
 }
  .section-head .title-s4.title::before {
   font-size: 70px !important;
-  
  }
-
 
 }
 
@@ -351,7 +349,7 @@ button:focus {
     content: '';
     height: 20px;
     width: 2px;
-    background: #a5ff77;
+    background: #a5ff77ab;
     bottom: 0;
     right: 0;
     margin: 0 auto;
@@ -997,9 +995,9 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 } */
 
 @media(max-width: 991.5px) {
-    .container {
+    /* .container {
         margin-top: 20px
-    }
+    } */
 
     .container .row .col-lg-4 {
         margin: 20px 0px
@@ -1031,7 +1029,7 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 
 .tc-danger, .tc-danger a { color: #e6604a !important; }
 
-.tc-light p, .tc-light .list { color: #c3c3c3; }
+.tc-light p, .tc-light .list { color: #fff; }
 
 .tc-light .lead, .tc-light .lead-light, .tc-light .lead-s2 { color: #fff; }
 
@@ -1135,7 +1133,7 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 
 .bg-theme { background-color: #0f0f0f !important; }
 
-.bg-theme.current { background-color: rgba(11, 12, 34, 0.7) !important; }
+.bg-theme.current { background-color: rgb(15 15 15) !important; }
 
 .bg-theme-alt { background-color: #0f0f0f !important; }
 
@@ -2663,7 +2661,7 @@ hr { position: relative; z-index: 5; }
 
 .btn:hover, .btn:focus { outline: none !important; box-shadow: none !important; }
 
-.btn span { position: relative; z-index: 999999; display: block; text-transform: capitalize !important;  }
+.btn span { position: relative; z-index: 999999; display: block; text-transform: capitalize !important; font-size: 10px;  }
 
 .btn span + .icon { margin-left: 10px; }
 
@@ -4531,9 +4529,11 @@ strong, b {
 
 .tc-light .tab-nav-line { border-bottom-color: rgba(219, 228, 247, 0.2); }
 
-.tc-light .tab-nav li a:after { background: #46bdf4; }
+.tc-light .tab-nav li a:after { background: #33862b; }
 
-.tc-light .tab-nav li a:hover, .tc-light .tab-nav li a.active { color: #46bdf4 !important; }
+.tc-light .tab-nav li a:hover, .tc-light .tab-nav li a.active { color: #87d955 !important;; 
+  font-weight: 900;
+  font-size: 22px;}
 
 .tab-nav-btn { margin: -7px -7px 8px; }
 
@@ -4601,7 +4601,8 @@ strong, b {
 
 .tc-light .accordion-item:not(:last-child) { border-color: rgba(255, 255, 255, 0.05); }
 
-.bg-theme .accordion-item:not(:last-child) { border-color: rgba(255, 255, 255, 0.05); }
+.bg-theme .accordion-item:not(:last-child) { border-color: rgb(154 240 111);
+ }
 
 .accordion-item-s2 { border-width: 2px !important; border: 2px solid #dbe4f7; border-radius: 6px; }
 
@@ -4639,7 +4640,8 @@ strong, b {
 
 .accordion-item-s4 .accordion-title { padding: 16px 54px 8px 30px; }
 
-.tc-light .accordion-title { color: #46bdf4; }
+.tc-light .accordion-title {     color: #87d962;
+  background: #0f0f0f; }
 
 .accordion-title-sm { font-size: 16px; }
 
@@ -4683,7 +4685,7 @@ strong, b {
 
 .tc-light .accordion-icon { background: transparent; }
 
-.tc-light .accordion-icon:after, .tc-light .accordion-icon:before { color: #46bdf4; }
+.tc-light .accordion-icon:after, .tc-light .accordion-icon:before { color: #87bf29; }
 
 .accordion-content { padding-bottom: 12px; padding-right: 46px; }
 
@@ -4691,7 +4693,7 @@ strong, b {
 
 .accordion-item-s2 .accordion-content, .accordion-item-s3 .accordion-content, .accordion-item-s4 .accordion-content { padding-left: 30px; }
 
-.accordion-item-s4 .accordion-content { padding-bottom: 6px; }
+.accordion-item-s4 .accordion-content { padding-bottom: 6px; background: #0f0f0f; }
 
 .accordion-faq { margin-top: -15px; }
 
@@ -5203,7 +5205,7 @@ strong, b {
 .section-head .title-s4 { text-transform: uppercase; padding: 30px 0; margin-bottom: 0; opacity: 1; position: relative;
 color: #fff; }
 
-.section-head .title-s4.title:before { font-size: 120px !important; font-weight: 700; }
+.section-head .title-s4.title:before { font-size: 90px !important; font-weight: 700; }
 
 .section-head-s2 .title:before { font-size: 48px; background-image: linear-gradient(180deg, #28384c 0%, #8284a5 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
 
@@ -5265,7 +5267,7 @@ color: #fff; }
 
 /* contact page data  */
 .header-main {
-  background-color: #000000;
+  background-color: #0000004f;
 }
 #contact{
   padding-top: 200px;
@@ -7743,7 +7745,7 @@ color: #fff; }
 
 .has-fixed:not(.is-dark) .header-main { background: #dfeaf9; }
 
-.has-fixed.is-dark .header-main { background: #101010; }
+.has-fixed.is-dark .header-main { background: #000000; }
 
 .has-fixed.is-shrink .header-main { padding: 8px 0; }
 
@@ -7765,7 +7767,7 @@ color: #fff; }
 
 .is-dark .header-navbar::before { background: #2a2b2e; }
 
-.header-navbar-overlay { background: rgba(8, 9, 27, 0.7); left: 100%; width: 0; z-index: -1; opacity: 0; visibility: hidden; transition: opacity .3s; transition-delay: .2s; }
+.header-navbar-overlay { background: transparent; left: 100%; width: 0; z-index: -1; opacity: 0; visibility: hidden; transition: opacity .3s; transition-delay: .2s; }
 
 .header-navbar.menu-shown { left: 0 !important; z-index: 10; }
 
@@ -8018,15 +8020,15 @@ color: #fff; }
   .secondary-menu-link { padding: 20px 38px; } }
 
 @media (min-width: 992px) and (max-width: 1199px) { .logo img { height: 32px; }
-  .header-navbar-s1 .menu > .menu-item > a { padding: 20px 4px; font-size: 12px; font-weight: 500; }
+  .header-navbar-s1 .menu > .menu-item > a { padding: 20px 4px; font-size: 10px; font-weight: 500; }
   .menu-btns > li { padding: 6px; }
   .menu-btns .btn { font-size: 13px; line-height: 20px; padding: 10px 15px; min-width: 0; }
-  .menu-btns .btn.btn-grad { padding: 12px 15px; }
-  .menu-btns .btn-md { font-size: 11px; line-height: 19px; padding: 8px 16px; }
+  .menu-btns .btn.btn-grad { padding: 10px 12px; }
+  .menu-btns .btn-md { font-size: 10px; line-height: 19px; padding: 8px 16px; }
   .menu-btns .btn-md.btn-grad { padding: 10px 16px; } }
 
 @media (min-width: 1200px) { .menu > .menu-item > a { padding: 20px 15px; }
-  .header-navbar-s1 .menu > .menu-item > a { padding: 20px 8.5px; font-size: 12px; font-weight: 600; }
+  .header-navbar-s1 .menu > .menu-item > a { padding: 20px 8.5px; font-size: 11px; font-weight: 600; }
   .menu-s2 > .menu-item > a { padding-left: 7.5px; padding-right: 7.5px; }
   .menu-item.has-sub > a { padding-right: 23px !important; }
   .menu-item.has-sub > a:after { right: 8px; }
@@ -8214,6 +8216,182 @@ color: #fff; }
 /* END @iO */
 
 
-/* blockchain page started  */
+
+/* index home page responsive  */
+
+@media (max-width: 992px){
+  .check-data-head {
+    width: 930px;
+  }
+
+}
+
+
+@media (max-width: 991px){
+  .logo img {
+    height: 45px;
+  }
+  .lead.products_para {
+    font-size: 14px;
+  }
+  .title.products_head {
+    font-size: 30px;
+  }
+  .check-data-head {
+    width: 720px;
+  }
+}
+
+
+@media (max-width: 768px){
+  .video-fluid {
+    width: 100%;
+    padding-top: 100px;
+  }
+  .blockchain_items {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .bc_data_head {
+    font-size: 22px;
+  }
+  .bc_data_para {
+    font-size: 14px;
+  }
+  .bc_items_para {
+    font-size: 12px;
+  }
+  .block_item_1 {
+    padding: 20px 0px 20px 62px;
+    background-size: 50px;
+  }
+  .check-data-head {
+    width: 690px !important;
+  }
+  .checkpoints-text {
+    font-size: 18px;
+  }
+  .checkpoints-para {
+    font-size: 14px;
+  }
+  .check-heading {
+    font-size: 30px;
+  }
+  .total_staked, .current_balance, .all_stakers, .apy {
+    max-width: 100%;
+  } 
+  .stacky-texted {
+    width: 60%;
+    font-size: 18px;
+  }
+  .stacky-text-he {
+    margin-bottom: 0;
+  }
+
+}
+
+
+@media (max-width: 576px){
+
+  .seprate_links {
+    font-size: 12px;
+  }
+  .footer-texted {
+    font-size: 12px;
+  }
+  .section-head .title-s4 {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .blockchain_data_2 {
+    text-align: center;
+    padding: 50px 0px 0px 0px;
+  }
+  .bc_data_head {
+    padding-top: 36px;
+    text-align: center;
+  }
+  .bc_data_para {
+    text-align: center;
+  }
+  .stacky_head {
+    padding-top: 100px;
+  }
+  .stacky-text-hed {
+    font-size: 22px;
+  }
+  .stacky_right {
+    max-width: 95%;
+    margin: 0 auto;
+  }
+  .stacky_left {
+    margin-bottom: 35px;
+  }
+  .stacky_centre {
+    margin-bottom: 35px;
+  }
+  .check-data-head {
+    width: 565px !important;
+  }
+  .checkpoints-para {
+    font-size: 12px;
+  }
+  .block_item_1 {
+    width: 75%;
+    margin: 0 auto;
+  }
+  .logo img {
+    height: 30px;
+  }
+}
+
+
+@media (min-width: 375px){
+  .section-head .title-s4.title:before {
+    font-size: 60px !important;
+    font-weight: 700;
+  }
+  /* .footer-para {
+    font-size: 10px;
+  }
+  .seprate_links {
+    font-size: 7px;
+  }
+  .footer-texted {
+    font-size: 9px;
+  } */
+  .img-fluid {
+    padding-top: 10px !important;
+  }
+  .section-b, .section {
+    padding-bottom: 20px;
+  }
+  .blockchain_data_2 {
+    padding: 0px;
+  }
+  .info p {
+    font-size: 11px;
+  }
+  .info h4 {
+    font-size: 20px;
+  }
+  .check-data-head {
+    width: 365px !important;
+  }
+  .checkpoints-para {
+    font-size: 10px;
+  }
+  .checkpoints-text {
+    font-size: 16px;
+  }
+  #contact {
+    padding-top: 100px;
+  }
+  
+  
+
+}
+
 
 

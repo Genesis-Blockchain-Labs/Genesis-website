@@ -25,13 +25,19 @@
 			<div class="header-navbar header-navbar-s1">
 				<nav class="header-menu" id="example-menu-04">
 					<ul class="menu menu-s2">
+					<li class="menu-item has-sub">
+							<a class="menu-link nav-link menu-toggle" href="#">Technology</a>
+							<ul class="menu-sub menu-drop">
+							<li class="menu-item"><a class="menu-link nav-link"  href="genesis _blockchain.php">Genesis Blockchain1</a></li>		
+							</ul>
+						</li>
 						<li class="menu-item has-sub">
 							<a class="menu-link nav-link menu-toggle" href="#">Products</a>
 							<ul class="menu-sub menu-drop">
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesis_wallet.php">Genesis Wallets</a></li>
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesisexchange.php">Genesis Exchange</a></li>
+								<li class="menu-item"><a class="menu-link nav-link"  href="genesis_wallet.php">Genesis Wallets2</a></li>
+								<li class="menu-item"><a class="menu-link nav-link"  href="genesisexchange.php">Genesis Exchange2</a></li>
 								<!-- <li class="menu-item"><a class="menu-link nav-link"  href="genesis_desktop_wallet.php">Genesis Desktop Wallets</a></li> -->
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesis _blockchain.php">Genesis Blockchain</a></li>
+								<!-- <li class="menu-item"><a class="menu-link nav-link"  href="genesis _blockchain.php">Genesis Blockchain2</a></li> -->
 								<!-- <li class="menu-item"><a class="menu-link nav-link" target="_blank" href="metabox.php">Metabox</a></li> -->
 							</ul>
 						</li>
@@ -56,7 +62,7 @@
 								<li class="menu-item"><a class="menu-link nav-link" href="#faqs">Faqs</a></li>
 							</ul>
 						</li>
-						<li class="menu-item"><a class="menu-link nav-link" href="#contact">Contact</a></li>
+						<li class="menu-item"><a class="menu-link nav-link" href="contact.php">Contact</a></li>
 					</ul>
 					<ul class="menu-btns">
 						<li><a href="images/Genesis Blockchain Final Whitepaper latest.pdf" target="_blank"  class="btn btn-rg btn-auto btn-outline btn-grad on-bg-theme btn-round"><span>Whitepaper</span></a></li>
