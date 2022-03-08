@@ -45,13 +45,13 @@
 					<h2 class="footer-texted" >for any business enquiries please contact : support@genesisblockchainlabs.com</h2>
 						<div class="wgs wgs-text text-center mb-3">
 							<ul class="social pdb-m justify-content-center">
-								<li><a  href="https://www.facebook.com/genesisblockchainlabs"><em class="social-icon fab fa-facebook-f"></em></a></li>
-								<li><a  href="https://twitter.com/genesis_wallet1"><em class="social-icon fab fa-twitter"></em></a></li>
-								<li><a  href="https://t.me/genesis_blockchain"><em class="social-icon fab fa-telegram"></em></a></li>
-								<li><a  href="https://www.instagram.com/genesisblockchainlabs/"><em class="social-icon fab fa-instagram"></em></a></li>
-								<li><a  href="https://www.youtube.com/channel/UCjx5k777Kn6Ofi5IHkTPwnw"><em class="social-icon fab fa-youtube"></em></a></li>
-								<li><a  href="https://www.linkedin.com/company/genesis-wallet/"><em class="social-icon fab fa-linkedin"></em></a></li>
-								<li><a  href="https://www.instagram.com/genesisblockchainlabs/"><em class="social-icon fab fa-medium"></em></a></li>
+								<li><a  href="https://www.facebook.com/genesisblockchainlabs" target="blank"><em class="social-icon fab fa-facebook-f"></em></a></li>
+								<li><a  href="https://twitter.com/genesis_wallet1" target="blank"><em class="social-icon fab fa-twitter"></em></a></li>
+								<li><a  href="https://t.me/genesis_blockchain" target="blank"><em class="social-icon fab fa-telegram"></em></a></li>
+								<li><a  href="https://www.instagram.com/genesisblockchainlabs/" target="blank"><em class="social-icon fab fa-instagram"></em></a></li>
+								<li><a  href="https://www.youtube.com/channel/UCjx5k777Kn6Ofi5IHkTPwnw" target="blank"><em class="social-icon fab fa-youtube"></em></a></li>
+								<li><a  href="https://www.linkedin.com/company/genesis-wallet/" target="blank"><em class="social-icon fab fa-linkedin"></em></a></li>
+								<li><a  href="https://www.instagram.com/genesisblockchainlabs/" target="blank"><em class="social-icon fab fa-medium"></em></a></li>
 								
 							</ul>
 

@@ -28,14 +28,14 @@
 					<li class="menu-item has-sub">
 							<a class="menu-link nav-link menu-toggle" href="#">Technology</a>
 							<ul class="menu-sub menu-drop">
-							<li class="menu-item"><a class="menu-link nav-link"  href="genesis _blockchain.php">Genesis Blockchain1</a></li>		
+							<li class="menu-item"><a class="menu-link nav-link"  href="genesis _blockchain.php">Genesis Blockchain</a></li>		
 							</ul>
 						</li>
 						<li class="menu-item has-sub">
 							<a class="menu-link nav-link menu-toggle" href="#">Products</a>
 							<ul class="menu-sub menu-drop">
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesis_wallet.php">Genesis Wallets2</a></li>
-								<li class="menu-item"><a class="menu-link nav-link"  href="genesisexchange.php">Genesis Exchange2</a></li>
+								<li class="menu-item"><a class="menu-link nav-link"  href="genesis_wallet.php">Genesis Wallets</a></li>
+								<li class="menu-item"><a class="menu-link nav-link"  href="genesisexchange.php">Genesis Exchange</a></li>
 								<!-- <li class="menu-item"><a class="menu-link nav-link"  href="genesis_desktop_wallet.php">Genesis Desktop Wallets</a></li> -->
 								<!-- <li class="menu-item"><a class="menu-link nav-link"  href="genesis _blockchain.php">Genesis Blockchain2</a></li> -->
 								<!-- <li class="menu-item"><a class="menu-link nav-link" target="_blank" href="metabox.php">Metabox</a></li> -->

@@ -1136,7 +1136,7 @@
                 <div class="container">
                     <!-- Section Head @s -->
                     <div class="section-head text-center wide-auto-sm">
-                        <h2 class="title title-s4" title="Partners">Genesis Partners</h2>
+                        <h2 class="title title-s4" title="Partners">Genesis Partner</h2>
                     </div><!-- .section-head @e -->
                     <!-- Block @s -->
                     <div class="nk-block block-partners">
